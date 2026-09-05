@@ -100,7 +100,10 @@ Base de contenido adaptada del informe KapakID ([AppsM0viles/report](https://git
   - 1.1 Startup Profile
   - 1.2 Solution Profile (problema, 5W+2H, Lean UX)
   - 1.3 Segmentos objetivo
-- [Capítulo II: Requirements & Analysis](report/21-chapter-II-requirements.md) *(pendiente — feature/chapter-2)*
+- [Capítulo II: Requirements & Analysis](report/21-chapter-II-requirements.md)
+  - 2.1 Competidores
+  - 2.2 Entrevistas
+  - 2.3 Needfinding (Personas, Task Matrix, Empathy Maps, As-Is)
 - [Capítulo III: Requirements Specification](report/31-chapter-III-specifications.md) *(pendiente — feature/chapter-3)*
 - [Bibliografía](report/99-bibliography.md)
 
@@ -111,18 +114,14 @@ Base de contenido adaptada del informe KapakID ([AppsM0viles/report](https://git
 | Versión | Fecha | Autor | Descripción |
 | :--- | :--- | :--- | :--- |
 | 1.0 | 05/09/2026 | Equipo F1nTrack | Cap. I adaptado a FAS (curso 15987, ciclo 2620): Startup/Solution Profile, Lean UX y segmentos con visión de identidad + pagos + integraciones. |
+| 1.1 | 05/09/2026 | Equipo F1nTrack | Cap. II: competidores (landscape + SWOT), entrevistas, needfinding (Personas, Task Matrix, Empathy Maps, As-Is) alineado a O-01…O-05. |
 
 ---
 
-## Estado Cap. I (esta rama)
+## Estado del avance (por capítulo)
 
-| Sección | Estado |
+| Capítulo | Estado |
 | :--- | :---: |
-| 1.1 Startup Profile | Listo |
-| 1.1.1 Descripción startup | Listo |
-| 1.1.2 Perfiles (fotos/códigos pendientes de 3 integrantes) | Parcial |
-| 1.2.1 Nombre del producto | Listo |
-| 1.2.2 Antecedentes y problemática (5W+2H + objetivos) | Listo |
-| 1.2.3 Lean UX (Problem / Assumptions / Hypothesis / Canvas) | Listo |
-| 1.3 Segmentos objetivo | Listo |
-| Cap. II y III | No (siguientes ramas) |
+| Cap. I — Introducción | Listo |
+| Cap. II — Requirements & Analysis | Listo |
+| Cap. III — Requirements Specification | Pendiente (`feature/chapter-3`) |
