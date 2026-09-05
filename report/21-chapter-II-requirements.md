@@ -104,7 +104,7 @@ El análisis de competidores es esencial para KapakID porque permite:
 
 **Resumen:** Control familiar, documentos de dependientes y alertas/previsión (P-06 / premium multi-perfil).
 
-> **Pendiente:** completar ≥2 entrevistas adicionales del segmento B (meta 3–5).
+> **[PENDIENTE — completar]** Agregar **≥2 entrevistas nuevas** del segmento B (padres/tutores) hasta llegar a 3–5: nombres, edad, distrito, screenshot de video, URL (YouTube) con timing/duración y resumen. No bloquea el Cap. III, pero es requisito de evidencia del curso.
 
 ### 2.2.3 Análisis de entrevistas
 

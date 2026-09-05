@@ -104,8 +104,23 @@ Base de contenido adaptada del informe KapakID ([AppsM0viles/report](https://git
   - 2.1 Competidores
   - 2.2 Entrevistas
   - 2.3 Needfinding (Personas, Task Matrix, Empathy Maps, As-Is)
-- [Capítulo III: Requirements Specification](report/31-chapter-III-specifications.md) *(pendiente — feature/chapter-3)*
+- [Capítulo III: Requirements Specification](report/31-chapter-III-specifications.md)
+  - 3.1 To-Be Scenario Mapping
+  - 3.2 User Stories
+  - 3.3 Impact Map
+  - 3.4 Product Backlog
 - [Bibliografía](report/99-bibliography.md)
+
+---
+
+## Pendientes (no bloquean el Avance 1 base)
+
+| Ítem | Dónde | Estado |
+| :--- | :--- | :--- |
+| ≥2 entrevistas nuevas segmento padres/tutores | Cap. II §2.2.2 | **Por completar** |
+| Capturas To-Be en herramienta del curso | Cap. III §3.1 | **Por completar** |
+| Backlog oficial en Jira (captura actualizada) | Cap. III §3.4 | **Por completar** |
+| Fotos/códigos de Giussepe, Diego, Dhilsen | Cap. I §1.1.2 | **Por completar** |
 
 ---
 
@@ -113,8 +128,9 @@ Base de contenido adaptada del informe KapakID ([AppsM0viles/report](https://git
 
 | Versión | Fecha | Autor | Descripción |
 | :--- | :--- | :--- | :--- |
-| 1.0 | 05/09/2026 | Equipo F1nTrack | Cap. I adaptado a FAS (curso 15987, ciclo 2620): Startup/Solution Profile, Lean UX y segmentos con visión de identidad + pagos + integraciones. |
-| 1.1 | 05/09/2026 | Equipo F1nTrack | Cap. II: competidores (landscape + SWOT), entrevistas, needfinding (Personas, Task Matrix, Empathy Maps, As-Is) alineado a O-01…O-05. |
+| 1.0 | 05/09/2026 | Equipo F1nTrack | Cap. I adaptado a FAS (curso 15987, ciclo 2620): Startup/Solution Profile, Lean UX y segmentos. |
+| 1.1 | 05/09/2026 | Equipo F1nTrack | Cap. II: competidores, entrevistas, needfinding. |
+| 1.2 | 05/09/2026 | Equipo F1nTrack | Cap. III: To-Be, User Stories, Impact Map y Product Backlog (Avance 1). |
 
 ---
 
@@ -123,5 +139,5 @@ Base de contenido adaptada del informe KapakID ([AppsM0viles/report](https://git
 | Capítulo | Estado |
 | :--- | :---: |
 | Cap. I — Introducción | Listo |
-| Cap. II — Requirements & Analysis | Listo |
-| Cap. III — Requirements Specification | Pendiente (`feature/chapter-3`) |
+| Cap. II — Requirements & Analysis | Listo (con pendientes de campo) |
+| Cap. III — Requirements Specification | Listo (con pendientes de capturas/Jira) |
