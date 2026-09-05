@@ -1,0 +1,76 @@
+¡Perfecto! Ahora entiendo completamente. No hay que adaptarlo a minería. KapakID se mantiene como plataforma de identidad digital y pagos integrados para el día a día del ciudadano peruano, pero debemos elevar su complejidad arquitectónica para que cumpla con los requisitos del curso de Fundamentos de Arquitectura de Software.
+
+Vamos a reestructurar KapakID siguiendo las 4 capas que pide tu profesor (Objetivos → Procesos → Funcionalidades → Módulos), pero añadiendo:
+
+Integraciones con entidades externas (RENIEC, SUNAT, Banca, Metropolitano, etc.)
+
+IoT (pago con NFC, lectura de tarjetas, etc.)
+
+Trazabilidad (registro de transacciones, auditoría)
+
+Complejidad empresarial (no es un CRUD simple)
+
+📌 KAPAKID — VERSIÓN REESTRUCTURADA PARA ARQUITECTURA DE SOFTWARE
+🎯 EL PROBLEMA (Reformulado para Arquitectura)
+Contexto Real
+En el Perú, los ciudadanos manejan múltiples identidades y medios de pago dispersos:
+
+Documentos físicos: DNI, carné universitario, licencia de conducir, certificados, etc.
+
+Tarjetas físicas: Tarjeta del Metropolitano, Lima Pass, tarjetas de banco, tarjetas de fidelización.
+
+Aplicaciones dispersas: Yape, Plin, cada banco tiene su app, cada servicio tiene su propio sistema.
+
+El problema central: No existe una plataforma única, integrada y segura que permita al ciudadano:
+
+Centralizar su identidad digital (documentos verificables)
+
+Pagar servicios cotidianos (transporte, bancos, comercios)
+
+Tener trazabilidad de sus transacciones y documentos
+
+Cumplir con normativas (SUNAT, SBS, seguridad de datos)
+
+📊 MAPEO COMPLETO (4 CAPAS)
+CAPA 1: OBJETIVOS ESTRATÉGICOS
+ID	Objetivo	KPI
+O-01	Centralizar la identidad digital de los ciudadanos en una sola plataforma	% de usuarios con documentos verificados (meta: 80%)
+O-02	Facilitar pagos y transacciones cotidianas (transporte, bancos, servicios) desde un solo lugar	Número de transacciones mensuales / usuario
+O-03	Garantizar la trazabilidad y auditoría de todas las transacciones y documentos	% de transacciones con registro completo (meta: 100%)
+O-04	Cumplir con normativas de seguridad, privacidad y regulación (SBS, SUNAT, Ley de Protección de Datos)	Número de observaciones regulatorias (meta: 0)
+O-05	Reducir el uso de documentos y tarjetas físicas, promoviendo la digitalización	% reducción de emisiones de plástico / papel
+CAPA 2: PROCESOS DE NEGOCIO
+ID	Proceso	Descripción	Objetivo que soporta
+P-01	Registro y Verificación de Identidad	Usuario se registra, valida su identidad con RENIEC/SUNAT, crea su perfil digital	O-01, O-04
+P-02	Digitalización y Validación de Documentos	Usuario escanea/carga documentos (DNI, carné, licencia, etc.), sistema los valida	O-01
+P-03	Gestión de Pagos y Recargas	Usuario recarga saldo, paga transporte (Metropolitano, Lima Pass), bancos, servicios	O-02
+P-04	Trazabilidad y Auditoría	Registro de cada transacción, consulta de historial, generación de reportes	O-03, O-04
+P-05	Notificaciones y Alertas	Alertas de vencimiento de documentos, confirmación de pagos, ofertas personalizadas	O-02, O-05
+P-06	Gestión de Perfiles Múltiples	Padres administran documentos de hijos, tutores de adultos mayores, etc.	O-01
+CAPA 3: FUNCIONALIDADES DEL SOFTWARE
+ID	Funcionalidad	Descripción	Proceso que soporta
+F-01	Registro de usuario con DNI y biometría facial	Verificación con RENIEC	P-01
+F-02	Validación de identidad con RENIEC (API)	Cruce de datos oficiales	P-01
+F-03	Registro de empresas/negocios (RUC)	Validación con SUNAT	P-01
+F-04	Carga y digitalización de documentos (DNI, carné, licencia, certificados)	OCR + validación	P-02
+F-05	Generación de QR único por usuario y por documento	Identidad digital	P-02
+F-06	Carga de saldo (depósito bancario, transferencia, Yape/Plin)	Integración con bancos	P-03
+F-07	Pago de transporte público (Metropolitano, Lima Pass, Tren) con QR/NFC	Lectura NFC, integración con concesionarios	P-03
+F-08	Pago en comercios afiliados	Integración con POS, QR	P-03
+F-09	Transferencia entre usuarios (P2P)	Pagos entre personas	P-03
+F-10	Registro de cada transacción (fecha, monto, comercio, documento asociado)	Auditoría	P-04
+F-11	Consulta de historial de transacciones y documentos	Trazabilidad	P-04
+F-12	Generación de reportes de consumo y documentos (para SUNAT, SBS)	Cumplimiento normativo	P-04
+F-13	Notificación de vencimiento de documentos (DNI, licencia, carné)	Alertas	P-05
+F-14	Confirmación de pagos y recargas (SMS, Email, Push)	Notificaciones	P-05
+F-15	Gestión de perfiles de familiares (hijos, adultos mayores)	Roles y permisos	P-06
+F-16	Lectura de tarjetas físicas (NFC) y digitalización	IoT / NFC	P-02, P-03
+F-17	Autenticación biométrica (huella, facial) para pagos y acceso	Seguridad	P-01, P-03
+CAPA 4: MÓDULOS DE SOFTWARE (Microservicios)
+ID	Módulo	Funcionalidades que agrupa	Bounded Context (DDD)	Objetivo que soporta
+M-01	Identidad Digital y Gestión de Usuarios	F-01, F-02, F-03, F-04, F-05, F-17	"Identidad"	O-01, O-04
+M-02	Gestión de Documentos y Perfiles	F-04, F-05, F-15, F-16	"Documentos"	O-01, O-05
+M-03	Gestión de Pagos y Recargas	F-06, F-07, F-08, F-09	"Pagos"	O-02
+M-04	Trazabilidad y Auditoría	F-10, F-11, F-12	"Auditoría"	O-03, O-04
+M-05	Notificaciones y Alertas	F-13, F-14	"Comunicaciones"	O-02, O-05
+M-06	Integraciones con Entidades Externas	F-02 (RENIEC), F-03 (SUNAT), F-07 (Metropolitano/Lima Pass), F-08 (Bancos/POS)	"Integraciones"	O-01, O-02, O-04S
