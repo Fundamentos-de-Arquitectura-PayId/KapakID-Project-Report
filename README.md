@@ -1,54 +1,47 @@
-# PayID — Informe del Trabajo Final
+<div align="center">
 
-![Banner UPC](assets/report/portada/img-da8629b888.png)
+<img src="assets/report/portada/img-da8629b888.png" alt="Logo de la Universidad Peruana de Ciencias Aplicadas" width="110" />
 
+<p><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
+<p>Carrera de Ingeniería de Software</p>
+<p><strong>1ASI0657 — Fundamentos de Arquitectura de Software</strong></p>
+<p><strong>Sección / NRC: 15987</strong></p>
+<p><strong>Trabajo Final</strong></p>
+<h1>PayID</h1>
+<p><strong>Docente:</strong> Wilder Aurelio Vega Calero</p>
+<p><strong>Equipo:</strong> PayID</p>
 
-Universidad Peruana de Ciencias Aplicadas
+<table align="center">
+  <thead><tr><th>Código</th><th>Apellidos y nombres</th></tr></thead>
+  <tbody>
+    <tr><td>U20231C069</td><td>Mora Blas, Diego Alonzo</td></tr>
+    <tr><td>U202319440</td><td>Mallqui Vilca, Dhilsen Armil</td></tr>
+    <tr><td>U20221c576</td><td>Taquiri Calderón, Jhunior Giussepe</td></tr>
+    <tr><td>U202319415</td><td>Tasayco Osorio, Raul Hiroshi</td></tr>
+  </tbody>
+</table>
 
-Ingeniería de Software
+<p><strong>Ciclo académico 2026-20</strong></p>
+<p>Noviembre 2026</p>
 
-1ASI0657 Fundamentos de Arquitectura de Software
-
-202620
-
-NRC: 15987
-
-Profesor:  Wilder Aurelio Vega Calero
-
-TRABAJO FINAL
-
-Nombre del Producto: PayID
-
-**Integrantes:**
-
-| Alumno | Código |
-|---|---|
-| Mora Blas, Diego Alonzo | U20231C069 |
-| Dhilsen Armil, Mallqui Vilca | U202319440 |
-| Taquiri Calderón Jhunior Giussepe | U20221c576 |
-| Tasayco Osorio Raul Hiroshi | U202319415 |
+</div>
 
 ## Registro de versiones del informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
-|---|---|---|---|
-| 1.0 | 13/09/2026 | Taquiri Calderon, Jhunior Giussepe |  |
-|  |  | Diego Mora Blas |  |
-|  |  | Mallqui Vilca, Dhilsen Armil | Elaboración de los diagramas C4 (Contexto, Contenedores y Componentes) en Structurizr para el modelado de la arquitectura de PayID y Registros de Entrevistas. |
-|  |  | Raul Hiroshi Tasayco Osorio |  |
-| 2.0 |  | Taquiri Calderon, Jhunior Giussepe |  |
-|  |  | Diego Mora Blas |  |
-|  |  | Mallqui Vilca, Dhilsen Armil | ADD Iteration 1: Architectural Design Backlog, Iteration Goal, Design Concepts e Instantiate Elements. |
-|  |  | Raul Hiroshi Tasayco Osorio |  |
-| 3.0 | 22/11/2026 | Taquiri Calderón, Jhunior Giussepe | Sección Student Outcome corregida a ABET – EAC – SO3 (Comunicación efectiva), con cuadro por integrante e hito; corrección del nombre "Giussepe"; tablas de commits de los sprints reemplazadas por commits reales de la organización; secciones 5.3.3, 5.3.4 y 5.4; Conclusiones, Video About-The-Team, Uso de herramientas de IA, Referencias y Links; Anexos B (desempeño), C (matriz de rúbricas), D (cronograma), E (términos y condiciones) y F (registro de commits); tablas con fondo blanco y tabla de contenido con 4 niveles. Se retiraron del registro las filas de una persona que no integra el equipo. |
-| 3.1 | 22/11/2026 | Consolidación editorial | Índice reorganizado con enlaces a secciones; se normalizó el nombre del producto a PayID; se conservaron los avances de Sprint 2 descritos en el PDF fuente y se identificaron los respaldos que faltan adjuntar. |
+|:---:|:---:|:---:|:---|
+| 1.0 | 13/09/2026 | Equipo PayID | Informe inicial, registros de entrevistas y diagramas C4 de contexto, contenedores y componentes. |
+| 2.0 | Pendiente | Mallqui Vilca, Dhilsen Armil | ADD Iteration 1: backlog arquitectónico, objetivo, conceptos de diseño e instanciación de elementos. |
+| 3.0 | 22/11/2026 | Taquiri Calderón, Jhunior Giussepe | Actualización de Student Outcome, evidencias de sprints, despliegue, anexos y referencias del informe. |
+| 3.1 | 22/11/2026 | Consolidación editorial | Reorganización de la estructura y conservación de los avances reportados por el equipo. |
+| 3.2 | 22/11/2026 | Consolidación editorial | Portada centrada, registro de versiones simplificado, sección GitFlow y traslado de capítulos a sus carpetas; el README raíz queda hasta Student Outcome. |
 
 ## Project Report Collaboration Insights
 
 Commits de los integrantes en este repositorio (historial de Git al 22/11/2026):
 
 | Integrante | Usuario / autor de Git | Commits en este repositorio |
-|---|---|---|
+|:---:|:---:|:---:|
 | Mallqui Vilca, Dhilsen Armil | DhilsenDevs (Dhilsen18) | 7 (05/09/2026) |
 | Tasayco Osorio, Raul Hiroshi | Dexter | 2 (12/09/2026) |
 | Taquiri Calderón, Jhunior Giussepe | GiussepeTC0410 | Versión 3.0 del informe (22/11/2026) |
@@ -65,6 +58,17 @@ El registro completo de commits de los integrantes en todos los repositorios est
 | [PayID-Mobile-App](https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Mobile-App) | Aplicación móvil (Flutter) |
 | PayID-Backend (privado) | Backend ASP.NET Core |
 | [StructurizrCodePayID](https://github.com/Fundamentos-de-Arquitectura-PayId/StructurizrCodePayID) | Diagramas C4 |
+
+### Ramas del proyecto (GitFlow)
+
+Se sigue el flujo de GitFlow en los repositorios del informe y del backend:
+
+- `main`: versión estable del proyecto.
+- `develop`: integración de cambios antes de incorporarlos a `main`.
+- `feature/chapter-1`, `feature/chapter-2` y `feature/chapter-3`: trabajo por capítulos.
+- `feature/final-report-v3`: consolidación de la versión del informe.
+
+La aplicación web, la landing page y la app móvil trabajan principalmente desde `main`; por eso, GitFlow está aplicado de forma parcial en el conjunto del proyecto.
 
 ---
 
