@@ -34,7 +34,7 @@
 | 2.0 | Pendiente | Mallqui Vilca, Dhilsen Armil | ADD Iteration 1: backlog arquitectónico, objetivo, conceptos de diseño e instanciación de elementos. |
 | 3.0 | 22/11/2026 | Taquiri Calderón, Jhunior Giussepe | Actualización de Student Outcome, evidencias de sprints, despliegue, anexos y referencias del informe. |
 | 3.1 | 22/11/2026 | Consolidación editorial | Reorganización de la estructura y conservación de los avances reportados por el equipo. |
-| 3.2 | 22/11/2026 | Consolidación editorial | Portada centrada, registro de versiones simplificado, sección GitFlow y traslado de capítulos a sus carpetas; el README raíz queda hasta Student Outcome. |
+| 3.2 | 22/11/2026 | Consolidación editorial | Portada centrada, registro de versiones simplificado, sección GitFlow e índice completo en el README raíz; Student Outcome y capítulos quedaron en archivos separados. |
 
 ## Project Report Collaboration Insights
 
@@ -72,44 +72,164 @@ La aplicación web, la landing page y la app móvil trabajan principalmente desd
 
 ---
 
-<a id="student-outcome"></a>
-# Student Outcome: ABET – EAC – Student Outcome 3
+## Contenido
 
-Comunicación efectiva
-
-Criterio: Capacidad de comunicarse con efectividad ante diferentes audiencias, de forma oral y escrita.
-
-Criterio específico 3.c1: Comunica oralmente con efectividad a diferentes rangos de audiencia.
-
-Criterio específico 3.c2: Comunica por escrito con efectividad a diferentes rangos de audiencia.
-
-En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del equipo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
-
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---|---|---|
-| TB1<br>3.c1 y 3.c2 | Mora Blas, Diego Alonzo<br>3.c1 (oral): Participé en la presentación y sustentación de la propuesta de PayID, explicando de manera clara los requerimientos identificados, las necesidades de los usuarios y las decisiones tomadas para el diseño de la solución, utilizando un lenguaje comprensible para el público.<br>3.c2 (escrito): Participé en la elaboración de la documentación de PayID, organizando y redactando información obtenida durante las entrevistas, requerimientos y decisiones del proyecto de manera clara, estructurada y técnica, facilitando su comprensión y posterior análisis.<br>Evidencia: informe TB1 (registro de versiones v1.0). No tiene commits en los repositorios de la organización. | Pendiente: conclusión a redactar por el integrante. |
-| TB1<br>3.c1 y 3.c2 | Mallqui Vilca, Dhilsen Armil<br>3.c1 (oral): Participé en la presentación y explicación de los resultados obtenidos de las entrevistas de PayID, comunicando de manera clara los perfiles, necesidades, problemas y comportamientos identificados en los usuarios mediante los User Persona, Empathy Map y Journey Map.<br>3.c2 (escrito): Participé en la elaboración de la documentación de PayID, organizando y redactando los resultados de las entrevistas y el análisis de los usuarios mediante User Persona, Empathy Map y Journey Map, presentando la información de manera clara, estructurada y comprensible.<br>Evidencia escrita: capítulos I a III publicados en KapakID-Project-Report (431004e, 5d7178f, f97e84c y fb6367c, 05/09/2026); diagramas C4 y registro de entrevistas (registro de versiones v1.0). | Pendiente: conclusión a redactar por el integrante. |
-| TB1<br>3.c1 y 3.c2 | Taquiri Calderón, Jhunior Giussepe<br>3.c1 (oral): Participé en la presentación y explicación de las decisiones de arquitectura de PayID, comunicando de manera clara los principales componentes, estilos arquitectónicos y atributos de calidad considerados en la propuesta.<br>3.c2 (escrito): Participé en la elaboración de la documentación de PayID, describiendo de forma ordenada los requerimientos, decisiones arquitectónicas y elementos de la solución, utilizando una redacción técnica y comprensible.<br>Evidencia: informe TB1 (registro de versiones v1.0). | Pendiente: conclusión a redactar por el integrante. |
-| TB1<br>3.c1 y 3.c2 | Tasayco Osorio, Raul Hiroshi<br>3.c1 (oral): Participé en el planteamiento de la definición del negocio, la problematica y realizando un prototipo de un diagrama de contexto para saber como relacionariamos el aplicativo con diferentes entidades mediante qué arquitectura para implementarla<br>3.c2 (escrito): Participé en la elaboración de la documentación de PayID, desarrollando la definición del negocio, la problemática y el diagrama de contexto, organizando la información de manera clara y estructurada para facilitar la comprensión de la propuesta y su posterior implementación.<br>Evidencia escrita: diagramas C4 de contexto, contenedores y componentes en StructurizrCodePayID (5b0d4da y a9634b0, 08/09/2026) y migración del informe al repositorio (4464e7b, 12/09/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TB2<br>3.c1 y 3.c2 | Mora Blas, Diego Alonzo<br>Pendiente: no se encontraron commits del integrante entre el 14/09/2026 y el 27/09/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TB2, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TB2<br>3.c1 y 3.c2 | Mallqui Vilca, Dhilsen Armil<br>3.c1 (oral): Pendiente: no hay video ni acta de la exposición en los repositorios; el integrante debe registrar lo que presentó.<br>3.c2 (escrito): Redactó la ADD Iteration 1 (Architectural Design Backlog, Iteration Goal, Design Concepts e Instantiate Elements), según el registro de versiones v2.0. | Pendiente: conclusión a redactar por el integrante. |
-| TB2<br>3.c1 y 3.c2 | Taquiri Calderón, Jhunior Giussepe<br>Pendiente: no se encontraron commits del integrante entre el 14/09/2026 y el 27/09/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TB2, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TB2<br>3.c1 y 3.c2 | Tasayco Osorio, Raul Hiroshi<br>3.c1 (oral): Pendiente: no hay video ni acta de la exposición en los repositorios; el integrante debe registrar lo que presentó.<br>3.c2 (escrito): Publicó la base del backend en .NET (PayID-Backend, 072597c, 16/09/2026) y de la aplicación web en Vue (PayID-Frontend-Web-Application, 818ac7d, 16/09/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TP1<br>3.c1 y 3.c2 | Mora Blas, Diego Alonzo<br>Pendiente: no se encontraron commits del integrante entre el 28/09/2026 y el 11/10/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TP1, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TP1<br>3.c1 y 3.c2 | Mallqui Vilca, Dhilsen Armil<br>3.c1 (oral): Pendiente: no hay video ni acta de la exposición en los repositorios; el integrante debe registrar lo que presentó.<br>3.c2 (escrito): Publicó la API de cuentas de PayID con validación de registro, bloqueo de inicio de sesión y escenarios Gherkin (PayID-Backend, 72df77c, 05/10/2026) y la landing page con su README (PayID-Landing-Page, 6d89002, 07/10/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TP1<br>3.c1 y 3.c2 | Taquiri Calderón, Jhunior Giussepe<br>Pendiente: no se encontraron commits del integrante entre el 28/09/2026 y el 11/10/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TP1, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TP1<br>3.c1 y 3.c2 | Tasayco Osorio, Raul Hiroshi<br>Pendiente: no se encontraron commits del integrante entre el 28/09/2026 y el 11/10/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TP1, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TB3<br>3.c1 y 3.c2 | Mora Blas, Diego Alonzo<br>Pendiente: no se encontraron commits del integrante entre el 12/10/2026 y el 01/11/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TB3, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TB3<br>3.c1 y 3.c2 | Mallqui Vilca, Dhilsen Armil<br>Pendiente: no se encontraron commits del integrante entre el 12/10/2026 y el 01/11/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TB3, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TB3<br>3.c1 y 3.c2 | Taquiri Calderón, Jhunior Giussepe<br>3.c1 (oral): Pendiente: no hay video ni acta de la exposición en los repositorios; el integrante debe registrar lo que presentó.<br>3.c2 (escrito): Publicó la aplicación móvil PayID en Flutter (PayID-Mobile-App, 15 commits del 30/10/2026: autenticación, documentos con caché sin conexión, billetera, notificaciones, perfiles familiares y pruebas) y redactó su README con la guía de instalación, arquitectura e integración con la API (0d05e3f). | Pendiente: conclusión a redactar por el integrante. |
-| TB3<br>3.c1 y 3.c2 | Tasayco Osorio, Raul Hiroshi<br>Pendiente: no se encontraron commits del integrante entre el 12/10/2026 y el 01/11/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TB3, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TB4<br>3.c1 y 3.c2 | Mora Blas, Diego Alonzo<br>Pendiente: no se encontraron commits del integrante entre el 02/11/2026 y el 15/11/2026 ni una descripción de su aporte en el registro de versiones. El integrante debe indicar qué presentó o redactó para TB4, con su evidencia. | Pendiente: conclusión a redactar por el integrante. |
-| TB4<br>3.c1 y 3.c2 | Mallqui Vilca, Dhilsen Armil<br>3.c1 (oral): Pendiente: no hay video ni acta de la exposición en los repositorios; el integrante debe registrar lo que presentó.<br>3.c2 (escrito): Configuró el despliegue del backend en Render con su documentación Swagger (662d5e3, 03/11/2026) y habilitó CORS para el frontend (801bd9e, 03/11/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TB4<br>3.c1 y 3.c2 | Taquiri Calderón, Jhunior Giussepe<br>3.c1 (oral): Pendiente: no hay video ni acta de la exposición en los repositorios; el integrante debe registrar lo que presentó.<br>3.c2 (escrito): Conectó la app móvil al backend desplegado en Render (228a78e, 03/11/2026), ajustó el login al contrato publicado en Swagger (47ebe26, 03/11/2026) y configuró GitHub Actions para generar el APK publicado como release v1.0.0 (5662ef3, 3aac085 y 42a6ddb, 07/11/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TB4<br>3.c1 y 3.c2 | Tasayco Osorio, Raul Hiroshi<br>3.c1 (oral): Pendiente: no hay video ni acta de la exposición en los repositorios; el integrante debe registrar lo que presentó.<br>3.c2 (escrito): Configuró el despliegue de la aplicación web en GitHub Pages (6b88793, 02/11/2026) y corrigió el enrutamiento y la internacionalización (e08c199, e8ea2e7 y 9c59c2b, 02/11/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TF1<br>3.c1 y 3.c2 | Mora Blas, Diego Alonzo<br>Pendiente: el hito TF1 se presenta en la semana 15 (30/11 al 06/12/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TF1<br>3.c1 y 3.c2 | Mallqui Vilca, Dhilsen Armil<br>Pendiente: el hito TF1 se presenta en la semana 15 (30/11 al 06/12/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TF1<br>3.c1 y 3.c2 | Taquiri Calderón, Jhunior Giussepe<br>Pendiente: el hito TF1 se presenta en la semana 15 (30/11 al 06/12/2026). | Pendiente: conclusión a redactar por el integrante. |
-| TF1<br>3.c1 y 3.c2 | Tasayco Osorio, Raul Hiroshi<br>Pendiente: el hito TF1 se presenta en la semana 15 (30/11 al 06/12/2026). | Pendiente: conclusión a redactar por el integrante. |
-
-Nota: las acciones de los hitos TB2 a TB4 se sustentan en los commits de los repositorios y en el registro de versiones. La participación oral en cada exposición y las conclusiones deben ser registradas por cada integrante.
+- [Student Outcome: ABET–EAC, SO3](capitulos/student-outcome/README.md#student-outcome)
+### [Capítulo I: Introducción](capitulos/capitulo-i/README.md#chapter-1)
+- [1.1 Startup Profile](capitulos/capitulo-i/README.md#11-startup-profile)
+    - [1.1.1 Descripción de la Startup](capitulos/capitulo-i/README.md#111-descripción-de-la-startup)
+    - [1.1.2 Perfiles de integrantes del equipo](capitulos/capitulo-i/README.md#112-perfiles-de-integrantes-del-equipo)
+- [1.2 Solution Profile](capitulos/capitulo-i/README.md#12-solution-profile)
+    - [1.2.1 Nombre de producto](capitulos/capitulo-i/README.md#121-nombre-de-producto)
+    - [1.2.2 Antecedentes y Problemática](capitulos/capitulo-i/README.md#122-antecedentes-y-problemática)
+    - [1.2.3 Lean UX Process](capitulos/capitulo-i/README.md#123-lean-ux-process)
+      - [1.2.3.1 Problem Statements](capitulos/capitulo-i/README.md#1231-lean-ux-problem-statements)
+      - [1.2.3.2 Assumptions](capitulos/capitulo-i/README.md#1232-lean-ux-assumptions)
+      - [1.2.3.3 Hypothesis Statements](capitulos/capitulo-i/README.md#1233-lean-ux-hypothesis-statements)
+      - [1.2.3.4 Lean UX Canvas](capitulos/capitulo-i/README.md#1234-lean-ux-canvas)
+- [1.3 Segmentos objetivo](capitulos/capitulo-i/README.md#13-segmentos-objetivo)
+### [Capítulo II: Requirements & Analysis](capitulos/capitulo-ii/README.md#chapter-2)
+- [2.1 Competidores](capitulos/capitulo-ii/README.md#21-competidores)
+    - [2.1.1 Análisis competitivo](capitulos/capitulo-ii/README.md#211-análisis-competitivo-comparativa)
+    - [2.1.2 Estrategias y tácticas frente a competidores](capitulos/capitulo-ii/README.md#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2 Entrevistas](capitulos/capitulo-ii/README.md#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](capitulos/capitulo-ii/README.md#221-diseño-de-entrevistas)
+      - [Preguntas para el segmento 1](capitulos/capitulo-ii/README.md#preguntas-para-el-segmento-1-estudiantes-universitarios)
+      - [Preguntas para el segmento 2](capitulos/capitulo-ii/README.md#preguntas-para-el-segmento-2-padres-madres-o-tutores)
+    - [2.2.2 Registro de entrevistas](capitulos/capitulo-ii/README.md#222-registro-de-entrevistas)
+    - [2.2.3 Análisis de entrevistas](capitulos/capitulo-ii/README.md#223-análisis-de-entrevistas)
+- [2.3 Needfinding](capitulos/capitulo-ii/README.md#23-needfinding)
+    - [2.3.1 User Personas](capitulos/capitulo-ii/README.md#231-user-personas)
+    - [2.3.2 User Task Matrix](capitulos/capitulo-ii/README.md#232-user-task-matrix)
+    - [2.3.3 Empathy Maps](capitulos/capitulo-ii/README.md#233-empathy-maps)
+    - [2.3.4 As-Is Scenario Mapping](capitulos/capitulo-ii/README.md#234-as-is-scenario-mapping)
+    - [2.3.5 Big Picture EventStorming](capitulos/capitulo-ii/README.md#235-big-picture-eventstorming)
+    - [2.3.6 Ubiquitous Language](capitulos/capitulo-ii/README.md#236-ubiquitous-language)
+### [Capítulo III: Requirements Specification](capitulos/capitulo-iii/README.md#chapter-3)
+- [3.1 To-Be Scenario Mapping](capitulos/capitulo-iii/README.md#chapter-3-tobe)
+- [3.2 User Stories](capitulos/capitulo-iii/README.md#chapter-3-user-stories)
+- [3.3 Impact Map](capitulos/capitulo-iii/README.md#chapter-3-impact-map)
+- [3.4 Product Backlog](capitulos/capitulo-iii/README.md#chapter-3-product-backlog)
+### [Capítulo IV: Product Architecture Design](capitulos/capitulo-iv/README.md#chapter-4)
+- [4.1 Design Concepts, ViewPoints & ER Diagrams](capitulos/capitulo-iv/README.md#41-design-concepts-viewpoints--er-diagrams)
+    - [4.1.1 Principles Statements](capitulos/capitulo-iv/README.md#411-principles-statements)
+    - [4.1.2 Approaches Statements](capitulos/capitulo-iv/README.md#412-approaches-statements)
+    - [4.1.3 Context Diagram](capitulos/capitulo-iv/README.md#413-context-diagram)
+    - [4.1.4 Approach Driven ViewPoints Diagrams](capitulos/capitulo-iv/README.md#414-approach-driven-viewpoints-diagrams)
+      - [Diagramas UML](capitulos/capitulo-iv/README.md#diagramas-uml)
+      - [Vista de procesos](capitulos/capitulo-iv/README.md#vista-de-procesos)
+    - [4.1.5 Database Diagram](capitulos/capitulo-iv/README.md#415-relational--non-relational-database-diagram)
+    - [4.1.6 Design Patterns](capitulos/capitulo-iv/README.md#416-design-patterns)
+    - [4.1.7 Tactics](capitulos/capitulo-iv/README.md#417-tactics)
+- [4.2 Architectural Drivers](capitulos/capitulo-iv/README.md#42-architectural-drivers)
+    - [4.2.1 Design Purpose](capitulos/capitulo-iv/README.md#421-design-purpose)
+    - [4.2.2 Primary Functionality](capitulos/capitulo-iv/README.md#422-primary-functionality-primary-user-stories)
+    - [4.2.3 Quality Attribute Scenarios](capitulos/capitulo-iv/README.md#423-quality-attribute-scenarios)
+    - [4.2.4 Constraints](capitulos/capitulo-iv/README.md#424-constraints)
+    - [4.2.5 Architectural Concerns](capitulos/capitulo-iv/README.md#425-architectural-concerns)
+- [4.3 ADD Iterations](capitulos/capitulo-iv/README.md#43-add-iterations)
+    - [4.3.1 Iteration 1: Global System Structure](capitulos/capitulo-iv/README.md#431-iteration-1-global-system-structure)
+      - [4.3.1.1 Architectural Design Backlog](capitulos/capitulo-iv/README.md#add1-backlog)
+      - [4.3.1.2 Iteration Goal](capitulos/capitulo-iv/README.md#add1-goal)
+      - [4.3.1.3 Elements to Refine](capitulos/capitulo-iv/README.md#add1-refine)
+      - [4.3.1.4 Design Concepts](capitulos/capitulo-iv/README.md#add1-concepts)
+      - [4.3.1.5 Elements, Responsibilities and Interfaces](capitulos/capitulo-iv/README.md#add1-elements)
+      - [4.3.1.6 Views and Decisions](capitulos/capitulo-iv/README.md#add1-views)
+      - [4.3.1.7 Analysis and Kanban](capitulos/capitulo-iv/README.md#add1-review)
+    - [4.3.2 Iteration 2: Identity and Documents](capitulos/capitulo-iv/README.md#432-iteration-2-validación-de-identidad-y-gestión-de-documentos-digitales)
+      - [4.3.2.1 Backlog](capitulos/capitulo-iv/README.md#add2-backlog)
+      - [4.3.2.2 Iteration Goal](capitulos/capitulo-iv/README.md#add2-goal)
+      - [4.3.2.3 Elements to Refine](capitulos/capitulo-iv/README.md#add2-refine)
+      - [4.3.2.4 Design Concepts](capitulos/capitulo-iv/README.md#add2-concepts)
+      - [4.3.2.5 Elements, Responsibilities and Interfaces](capitulos/capitulo-iv/README.md#add2-elements)
+      - [4.3.2.6 Views and Decisions](capitulos/capitulo-iv/README.md#add2-views)
+      - [4.3.2.7 Analysis and Kanban](capitulos/capitulo-iv/README.md#add2-review)
+    - [4.3.3 Iteration 3: Payments and Wallet](capitulos/capitulo-iv/README.md#433-iteration-3-pagos-recargas-y-billetera-digital)
+      - [4.3.3.1 Backlog](capitulos/capitulo-iv/README.md#add3-backlog)
+      - [4.3.3.2 Iteration Goal](capitulos/capitulo-iv/README.md#add3-goal)
+      - [4.3.3.3 Elements to Refine](capitulos/capitulo-iv/README.md#add3-refine)
+      - [4.3.3.4 Design Concepts](capitulos/capitulo-iv/README.md#add3-concepts)
+      - [4.3.3.5 Elements, Responsibilities and Interfaces](capitulos/capitulo-iv/README.md#add3-elements)
+      - [4.3.3.6 Views and Decisions](capitulos/capitulo-iv/README.md#add3-views)
+      - [4.3.3.7 Analysis and Kanban](capitulos/capitulo-iv/README.md#add3-review)
+    - [4.3.4 Iteration 4: Security](capitulos/capitulo-iv/README.md#434-iteration-4-seguridad-autenticación-y-protección-de-datos)
+      - [4.3.4.1 Backlog](capitulos/capitulo-iv/README.md#add4-backlog)
+      - [4.3.4.2 Iteration Goal](capitulos/capitulo-iv/README.md#add4-goal)
+      - [4.3.4.3 Elements to Refine](capitulos/capitulo-iv/README.md#add4-refine)
+      - [4.3.4.4 Design Concepts](capitulos/capitulo-iv/README.md#add4-concepts)
+      - [4.3.4.5 Elements, Responsibilities and Interfaces](capitulos/capitulo-iv/README.md#add4-elements)
+      - [4.3.4.6 Views and Decisions](capitulos/capitulo-iv/README.md#add4-views)
+      - [4.3.4.7 Analysis and Kanban](capitulos/capitulo-iv/README.md#add4-review)
+    - [4.3.5 Iteration 5: Notifications](capitulos/capitulo-iv/README.md#435-iteration-5-notificaciones-alertas-y-seguimiento-de-trámites)
+      - [4.3.5.1 Backlog](capitulos/capitulo-iv/README.md#add5-backlog)
+      - [4.3.5.2 Iteration Goal](capitulos/capitulo-iv/README.md#add5-goal)
+      - [4.3.5.3 Elements to Refine](capitulos/capitulo-iv/README.md#add5-refine)
+      - [4.3.5.4 Design Concepts](capitulos/capitulo-iv/README.md#add5-concepts)
+      - [4.3.5.5 Elements, Responsibilities and Interfaces](capitulos/capitulo-iv/README.md#add5-elements)
+      - [4.3.5.6 Views and Decisions](capitulos/capitulo-iv/README.md#add5-views)
+      - [4.3.5.7 Analysis and Kanban](capitulos/capitulo-iv/README.md#add5-review)
+### [Capítulo V: Product Implementation, Validation & Deployment](capitulos/capitulo-v/README.md#chapter-5)
+- [5.1 Testing Suites & General Patterns](capitulos/capitulo-v/README.md#chapter-5-testing)
+    - [5.1.1 Backend Application Core Testing Suite](capitulos/capitulo-v/README.md#511-backend-application-core-testing-suite)
+    - [5.1.2 Pattern Based Backend Applications](capitulos/capitulo-v/README.md#512-pattern-based-backend-applications)
+    - [5.1.3 Pattern Based Custom Software Library](capitulos/capitulo-v/README.md#513-pattern-based-custom-software-library)
+    - [5.1.4 Framework Pattern Driven Refactoring Report](capitulos/capitulo-v/README.md#514-framework-pattern-driven-refactoring-report)
+- [5.2 Software Configuration Management](capitulos/capitulo-v/README.md#chapter-5-configuration)
+    - [5.2.1 Software Development Environment](capitulos/capitulo-v/README.md#521-software-development-environment-configuration)
+    - [5.2.2 Source Code Management](capitulos/capitulo-v/README.md#522-source-code-management)
+    - [5.2.3 Style Guide](capitulos/capitulo-v/README.md#523-source-code-style-guide--conventions)
+    - [5.2.4 Deployment Configuration](capitulos/capitulo-v/README.md#524-software-deployment-configuration)
+      - [5.2.4.1 Container Packaging and Deployment Evidence](capitulos/capitulo-v/README.md#5241-container-packaging-and-deployment-evidence)
+    - [5.2.5 Backend Code Structure](capitulos/capitulo-v/README.md#525-backend-code-structure-and-conventions)
+- [5.3 Microservices Implementation](capitulos/capitulo-v/README.md#chapter-5-sprints)
+    - [Sprint 1](capitulos/capitulo-v/README.md#531-sprint-1)
+      - [Backlog](capitulos/capitulo-v/README.md#sprint1-backlog)
+      - [Development Evidence](capitulos/capitulo-v/README.md#sprint1-development)
+      - [Testing Evidence](capitulos/capitulo-v/README.md#sprint1-testing)
+      - [Execution Evidence](capitulos/capitulo-v/README.md#sprint1-execution)
+      - [API Documentation](capitulos/capitulo-v/README.md#sprint1-api-docs)
+      - [Deployment Evidence](capitulos/capitulo-v/README.md#sprint1-deployment)
+      - [Collaboration Insights](capitulos/capitulo-v/README.md#sprint1-collaboration)
+      - [Kanban Board](capitulos/capitulo-v/README.md#sprint1-kanban)
+    - [Sprint 2](capitulos/capitulo-v/README.md#532-sprint-2)
+      - [Backlog](capitulos/capitulo-v/README.md#sprint2-backlog)
+      - [Development Evidence](capitulos/capitulo-v/README.md#sprint2-development)
+      - [Testing Evidence](capitulos/capitulo-v/README.md#sprint2-testing)
+      - [Execution Evidence](capitulos/capitulo-v/README.md#sprint2-execution)
+      - [API Documentation](capitulos/capitulo-v/README.md#sprint2-api-docs)
+      - [Deployment Evidence](capitulos/capitulo-v/README.md#sprint2-deployment)
+      - [Collaboration Insights](capitulos/capitulo-v/README.md#sprint2-collaboration)
+      - [Kanban Board](capitulos/capitulo-v/README.md#sprint2-kanban)
+    - [Sprint 3](capitulos/capitulo-v/README.md#533-sprint-3)
+      - [Backlog](capitulos/capitulo-v/README.md#sprint3-backlog)
+      - [Development Evidence](capitulos/capitulo-v/README.md#sprint3-development)
+      - [Testing Evidence](capitulos/capitulo-v/README.md#sprint3-testing)
+      - [Execution Evidence](capitulos/capitulo-v/README.md#sprint3-execution)
+      - [API Documentation](capitulos/capitulo-v/README.md#sprint3-api-docs)
+      - [Deployment Evidence](capitulos/capitulo-v/README.md#sprint3-deployment)
+      - [Collaboration Insights](capitulos/capitulo-v/README.md#sprint3-collaboration)
+      - [Kanban Board](capitulos/capitulo-v/README.md#sprint3-kanban)
+    - [Sprint 4](capitulos/capitulo-v/README.md#534-sprint-4)
+      - [Backlog](capitulos/capitulo-v/README.md#sprint4-backlog)
+      - [Development Evidence](capitulos/capitulo-v/README.md#sprint4-development)
+      - [Testing Evidence](capitulos/capitulo-v/README.md#sprint4-testing)
+      - [Execution Evidence](capitulos/capitulo-v/README.md#sprint4-execution)
+      - [API Documentation](capitulos/capitulo-v/README.md#sprint4-api-docs)
+      - [Deployment Evidence](capitulos/capitulo-v/README.md#sprint4-deployment)
+      - [Collaboration Insights](capitulos/capitulo-v/README.md#sprint4-collaboration)
+      - [Kanban Board](capitulos/capitulo-v/README.md#sprint4-kanban)
+- [5.4 Microservices Deployment](capitulos/capitulo-v/README.md#chapter-5-cloud)
+    - [Cloud Architecture Diagram](capitulos/capitulo-v/README.md#541-cloud-architecture-diagram)
+    - [Cloud Architecture Deployment](capitulos/capitulo-v/README.md#542-cloud-architecture-deployment)
+- [Conclusiones](capitulos/conclusiones/README.md#conclusiones)
+  - [Conclusiones y recomendaciones](capitulos/conclusiones/README.md#conclusiones-y-recomendaciones)
+  - [Video About-The-Team](capitulos/conclusiones/README.md#video-about-the-team)
+- [Uso de herramientas de IA](capitulos/uso-ia/README.md#uso-de-herramientas-de-ia)
+- [Referencias bibliográficas](capitulos/referencias/README.md#referencias)
+- [Anexos](capitulos/anexos/README.md#anexos)
+  - [Anexo B: Performance Reports](capitulos/anexos/README.md#anexo-b-final-individual-member-performance-report)
+  - [Anexo C: Matriz de rúbricas](capitulos/anexos/README.md#anexo-c-matriz-de-cumplimiento-de-rúbricas)
+  - [Anexo D: Cronograma](capitulos/anexos/README.md#anexo-d-cronograma-de-entregables)
+  - [Anexo E: Términos y condiciones](capitulos/anexos/README.md#anexo-e-términos-y-condiciones-de-servicio)
+  - [Anexo F: Registro de commits](capitulos/anexos/README.md#anexo-f-registro-completo-de-commits-de-los-integrantes)
+- [Links](capitulos/links/README.md#links)
