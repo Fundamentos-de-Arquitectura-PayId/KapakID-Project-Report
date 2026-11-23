@@ -41,6 +41,7 @@ Nombre del Producto: PayID
 |  |  | Mallqui Vilca, Dhilsen Armil | ADD Iteration 1: Architectural Design Backlog, Iteration Goal, Design Concepts e Instantiate Elements. |
 |  |  | Raul Hiroshi Tasayco Osorio |  |
 | 3.0 | 22/11/2026 | Taquiri Calderón, Jhunior Giussepe | Sección Student Outcome corregida a ABET – EAC – SO3 (Comunicación efectiva), con cuadro por integrante e hito; corrección del nombre "Giussepe"; tablas de commits de los sprints reemplazadas por commits reales de la organización; secciones 5.3.3, 5.3.4 y 5.4; Conclusiones, Video About-The-Team, Uso de herramientas de IA, Referencias y Links; Anexos B (desempeño), C (matriz de rúbricas), D (cronograma), E (términos y condiciones) y F (registro de commits); tablas con fondo blanco y tabla de contenido con 4 niveles. Se retiraron del registro las filas de una persona que no integra el equipo. |
+| 3.1 | 22/11/2026 | Consolidación editorial | Índice reorganizado con enlaces a secciones; se normalizó el nombre del producto a PayID; se conservaron los avances de Sprint 2 descritos en el PDF fuente y se identificaron los respaldos que faltan adjuntar. |
 
 ## Project Report Collaboration Insights
 
@@ -67,217 +68,169 @@ El registro completo de commits de los integrantes en todos los repositorios est
 
 ## Contenido
 
-- [Student Outcome: ABET – EAC – Student Outcome 3](#student-outcome-abet--eac--student-outcome-3)
-- [CAPÍTULO I: Presentación](#capítulo-i-presentación)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1. Nombre de producto](#121-nombre-de-producto)
-    - [1.2.2. Antecedentes y Problemática](#122-antecedentes-y-problemática)
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)
-      - [1.2.3.1. Lean UX Problem Statements](#1231-lean-ux-problem-statements)
-      - [1.2.3.2. Lean UX Assumptions](#1232-lean-ux-assumptions)
-      - [1.2.3.3. Lean UX Hypothesis Statements](#1233-lean-ux-hypothesis-statements)
-      - [1.2.3.4. Lean UX Canvas](#1234-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [CAPÍTULO II: Requirements Development and Software Solution Design](#capítulo-ii-requirements-development-and-software-solution-design)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo (Comparativa)](#211-análisis-competitivo-comparativa)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [Preguntas para el segmento 2: Padres, madres o tutores](#preguntas-para-el-segmento-2-padres-madres-o-tutores)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [Perfil](#perfil)
-    - [Insights clave](#insights-clave)
-    - [Problemas y frustraciones](#problemas-y-frustraciones)
-    - [Necesidades](#necesidades)
-    - [Oportunidades para PayID](#oportunidades-para-payid)
-    - [Perfil](#perfil-1)
-    - [Insights clave](#insights-clave-1)
-    - [Problemas y frustraciones](#problemas-y-frustraciones-1)
-    - [Necesidades](#necesidades-1)
-    - [Oportunidades para PayID](#oportunidades-para-payid-1)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. Empathy Maps](#233-empathy-maps)
-    - [2.3.4. As-Is Scenario Mapping](#234-as-is-scenario-mapping)
-    - [2.3.5. Big Picture EventStorming](#235-big-picture-eventstorming)
-    - [2.3.6. Ubiquitous Language](#236-ubiquitous-language)
-- [CAPÍTULO III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. User Stories](#31-user-stories)
-  - [3.2 Impact Mapping](#32-impact-mapping)
-  - [3.3 Product Backlog](#33-product-backlog)
-- [CAPÍTULO IV: Product Architecture Design](#capítulo-iv-product-architecture-design)
+- [Student Outcome: ABET–EAC, SO3](#student-outcome)
+- [Capítulo I: Introducción](#chapter-1)
+  - [1.1 Startup Profile](#11-startup-profile)
+    - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2 Solution Profile](#12-solution-profile)
+    - [1.2.1 Nombre de producto](#121-nombre-de-producto)
+    - [1.2.2 Antecedentes y Problemática](#122-antecedentes-y-problemática)
+    - [1.2.3 Lean UX Process](#123-lean-ux-process)
+      - [1.2.3.1 Problem Statements](#1231-lean-ux-problem-statements)
+      - [1.2.3.2 Assumptions](#1232-lean-ux-assumptions)
+      - [1.2.3.3 Hypothesis Statements](#1233-lean-ux-hypothesis-statements)
+      - [1.2.3.4 Lean UX Canvas](#1234-lean-ux-canvas)
+  - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements & Analysis](#chapter-2)
+  - [2.1 Competidores](#21-competidores)
+    - [2.1.1 Análisis competitivo](#211-análisis-competitivo-comparativa)
+    - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2 Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [Preguntas para el segmento 1](#preguntas-para-el-segmento-1-estudiantes-universitarios)
+      - [Preguntas para el segmento 2](#preguntas-para-el-segmento-2-padres-madres-o-tutores)
+    - [2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3 Needfinding](#23-needfinding)
+    - [2.3.1 User Personas](#231-user-personas)
+    - [2.3.2 User Task Matrix](#232-user-task-matrix)
+    - [2.3.3 Empathy Maps](#233-empathy-maps)
+    - [2.3.4 As-Is Scenario Mapping](#234-as-is-scenario-mapping)
+    - [2.3.5 Big Picture EventStorming](#235-big-picture-eventstorming)
+    - [2.3.6 Ubiquitous Language](#236-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#chapter-3)
+  - [3.1 To-Be Scenario Mapping](#chapter-3-tobe)
+  - [3.2 User Stories](#chapter-3-user-stories)
+  - [3.3 Impact Map](#chapter-3-impact-map)
+  - [3.4 Product Backlog](#chapter-3-product-backlog)
+- [Capítulo IV: Product Architecture Design](#chapter-4)
   - [4.1 Design Concepts, ViewPoints & ER Diagrams](#41-design-concepts-viewpoints--er-diagrams)
     - [4.1.1 Principles Statements](#411-principles-statements)
-    - [Principios SOLID](#principios-solid)
-    - [Domain-Driven Design (DDD)](#domain-driven-design-ddd)
-    - [API First](#api-first)
-    - [Portabilidad Cloud](#portabilidad-cloud)
     - [4.1.2 Approaches Statements](#412-approaches-statements)
-    - [Attribute-Driven Design (ADD)](#attribute-driven-design-add)
-    - [Arquitectura de Microservicios](#arquitectura-de-microservicios)
-    - [Descentralización](#descentralización)
-    - [Automatización](#automatización)
-    - [Infraestructura como Código (IaC)](#infraestructura-como-código-iac)
-    - [Cloud Native](#cloud-native)
-    - [API First](#api-first-1)
     - [4.1.3 Context Diagram](#413-context-diagram)
     - [4.1.4 Approach Driven ViewPoints Diagrams](#414-approach-driven-viewpoints-diagrams)
-    - [Diagramas UML:](#diagramas-uml)
-    - [Vista de procesos](#vista-de-procesos)
-    - [4.1.5 Relational / Non Relational Database Diagram](#415-relational--non-relational-database-diagram)
+      - [Diagramas UML](#diagramas-uml)
+      - [Vista de procesos](#vista-de-procesos)
+    - [4.1.5 Database Diagram](#415-relational--non-relational-database-diagram)
     - [4.1.6 Design Patterns](#416-design-patterns)
-    - [4.1.7. Tactics](#417-tactics)
-  - [4.2. Architectural Drivers](#42-architectural-drivers)
-    - [4.2.1. Design Purpose](#421-design-purpose)
-    - [4.2.2. Primary Functionality (Primary User Stories)](#422-primary-functionality-primary-user-stories)
-    - [4.2.3. Quality Attribute Scenarios](#423-quality-attribute-scenarios)
-    - [4.2.4. Constraints](#424-constraints)
-    - [4.2.5. Architectural Concerns](#425-architectural-concerns)
-  - [4.3. ADD Iterations](#43-add-iterations)
-    - [4.3.1. Iteration 1: Global System Structure](#431-iteration-1-global-system-structure)
-      - [4.3.1.1. Architectural Design Backlog 1](#4311-architectural-design-backlog-1)
-      - [4.3.1.2. Establish Iteration Goal by Selecting Drivers](#4312-establish-iteration-goal-by-selecting-drivers)
-      - [4.3.1.3. Choose One or More Elements of the System to Refine](#4313-choose-one-or-more-elements-of-the-system-to-refine)
-      - [4.3.1.4. Choose One or More Design Concepts That Satisfy the Selected Drivers](#4314-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
-      - [4.3.1.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces](#4315-instantiate-architectural-elements-allocate-responsibilities-and-define-interfaces)
-    - [API GATEWAY](#api-gateway)
-    - [BFF MOBILE](#bff-mobile)
-    - [BFF WEB](#bff-web)
-    - [MS USUARIOS](#ms-usuarios)
-    - [MS IDENTIDAD](#ms-identidad)
-    - [MS PAGOS Y BILLETERA](#ms-pagos-y-billetera)
-    - [MS ACADÉMICO](#ms-académico)
-    - [MS COMPLIANCE](#ms-compliance)
-    - [MS SEGURIDAD](#ms-seguridad)
-    - [MS NOTIFICACIONES](#ms-notificaciones)
-    - [MS AUDITORÍA](#ms-auditoría)
-    - [APACHE KAFKA (EVENT BUS)](#apache-kafka-event-bus)
-    - [SQL SERVER (PAYMENT LEDGER)](#sql-server-payment-ledger)
-    - [REDIS (CACHE / SESIONES)](#redis-cache--sesiones)
-    - [AZURE KEY VAULT](#azure-key-vault)
-      - [4.3.1.6. Sketch Views (C4 & UML) and Record Design Decisions](#4316-sketch-views-c4--uml-and-record-design-decisions)
-      - [4.3.1.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)](#4317-analysis-of-current-design-and-review-iteration-goal-kanban-board)
-    - [4.3.2. Iteration 2: Validación de Identidad y Gestión de Documentos Digitales](#432-iteration-2-validación-de-identidad-y-gestión-de-documentos-digitales)
-      - [4.3.2.1. Architectural Design Backlog 2](#4321-architectural-design-backlog-2)
-      - [4.3.2.2. Establish Iteration Goal by Selecting Drivers](#4322-establish-iteration-goal-by-selecting-drivers)
-      - [4.3.2.3. Choose One or More Elements of the System to Refine](#4323-choose-one-or-more-elements-of-the-system-to-refine)
-      - [4.3.2.4. Choose One or More Design Concepts That Satisfy the Selected Drivers](#4324-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
-      - [4.3.2.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces](#4325-instantiate-architectural-elements-allocate-responsibilities-and-define-interfaces)
-      - [4.3.2.6. Sketch Views (C4 & UML) and Record Design Decisions](#4326-sketch-views-c4--uml-and-record-design-decisions)
-      - [4.3.2.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)](#4327-analysis-of-current-design-and-review-iteration-goal-kanban-board)
-    - [4.3.3. Iteration 3: Pagos, Recargas y Billetera Digital](#433-iteration-3-pagos-recargas-y-billetera-digital)
-      - [4.3.3.1. Architectural Design Backlog 3](#4331-architectural-design-backlog-3)
-      - [4.3.3.2. Establish Iteration Goal by Selecting Drivers](#4332-establish-iteration-goal-by-selecting-drivers)
-      - [4.3.3.3. Choose One or More Elements of the System to Refine](#4333-choose-one-or-more-elements-of-the-system-to-refine)
-      - [4.3.3.4. Choose One or More Design Concepts That Satisfy the Selected Drivers](#4334-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
-      - [4.3.3.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces](#4335-instantiate-architectural-elements-allocate-responsibilities-and-define-interfaces)
-      - [4.3.3.6. Sketch Views (C4 & UML) and Record Design Decisions](#4336-sketch-views-c4--uml-and-record-design-decisions)
-      - [4.3.3.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)](#4337-analysis-of-current-design-and-review-iteration-goal-kanban-board)
-    - [4.3.4. Iteration 4: Seguridad, Autenticación y Protección de Datos](#434-iteration-4-seguridad-autenticación-y-protección-de-datos)
-      - [4.3.4.1. Architectural Design Backlog 4](#4341-architectural-design-backlog-4)
-      - [4.3.4.2. Establish Iteration Goal by Selecting Drivers](#4342-establish-iteration-goal-by-selecting-drivers)
-      - [4.3.4.3. Choose One or More Elements of the System to Refine](#4343-choose-one-or-more-elements-of-the-system-to-refine)
-      - [4.3.4.4. Choose One or More Design Concepts That Satisfy the Selected Drivers](#4344-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
-      - [4.3.4.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces](#4345-instantiate-architectural-elements-allocate-responsibilities-and-define-interfaces)
-      - [4.3.4.6. Sketch Views (C4 & UML) and Record Design Decisions](#4346-sketch-views-c4--uml-and-record-design-decisions)
-      - [4.3.4.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)](#4347-analysis-of-current-design-and-review-iteration-goal-kanban-board)
-    - [4.3.5. Iteration 5: Notificaciones, Alertas y Seguimiento de Trámites](#435-iteration-5-notificaciones-alertas-y-seguimiento-de-trámites)
-      - [4.3.5.1. Architectural Design Backlog 5](#4351-architectural-design-backlog-5)
-      - [4.3.5.2. Establish Iteration Goal by Selecting Drivers](#4352-establish-iteration-goal-by-selecting-drivers)
-      - [4.3.5.3. Choose One or More Elements of the System to Refine](#4353-choose-one-or-more-elements-of-the-system-to-refine)
-      - [4.3.5.4. Choose One or More Design Concepts That Satisfy the Selected Drivers](#4354-choose-one-or-more-design-concepts-that-satisfy-the-selected-drivers)
-      - [4.3.5.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces](#4355-instantiate-architectural-elements-allocate-responsibilities-and-define-interfaces)
-      - [4.3.5.6. Sketch Views (C4 & UML) and Record Design Decisions](#4356-sketch-views-c4--uml-and-record-design-decisions)
-      - [4.3.5.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)](#4357-analysis-of-current-design-and-review-iteration-goal-kanban-board)
-- [CAPÍTULO V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Testing Suites & General Patterns](#51-testing-suites--general-patterns)
-    - [5.1.1. Backend Application Core Testing Suite](#511-backend-application-core-testing-suite)
-    - [5.1.2. Pattern Based Backend Application(s)](#512-pattern-based-backend-applications)
-    - [5.1.3. Pattern Based Custom Software Library](#513-pattern-based-custom-software-library)
-    - [5.1.4. Framework Pattern Driven Refactoring Report](#514-framework-pattern-driven-refactoring-report)
-  - [5.2. Software Configuration Management](#52-software-configuration-management)
-    - [5.2.1. Software Development Environment Configuration](#521-software-development-environment-configuration)
-    - [5.2.2. Source Code Management](#522-source-code-management)
-    - [5.2.3. Source Code Style Guide & Conventions](#523-source-code-style-guide--conventions)
-    - [5.2.4. Software Deployment Configuration](#524-software-deployment-configuration)
-    - [5.2.3. Source Code Style Guide & Conventions](#523-source-code-style-guide--conventions-1)
-    - [5.2.1.6 Software Deployment Evidence for Sprint Review](#5216-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.7 Kanban Board](#5217-kanban-board)
-  - [5.3. MicroServices Implementation](#53-microservices-implementation)
-    - [5.3.1. Sprint 1](#531-sprint-1)
-      - [5.3.1.1. Sprint Backlog 1](#5311-sprint-backlog-1)
-      - [5.3.1.2. Development Evidence for Sprint Review](#5312-development-evidence-for-sprint-review)
-      - [5.3.1.3. Testing Suite Evidence for Sprint Review](#5313-testing-suite-evidence-for-sprint-review)
-      - [5.3.1.4. Execution Evidence for Sprint Review](#5314-execution-evidence-for-sprint-review)
-      - [5.3.1.5. Microservices Documentation Evidence for Sprint Review](#5315-microservices-documentation-evidence-for-sprint-review)
-      - [5.3.1.6. Software Deployment Evidence for Sprint Review](#5316-software-deployment-evidence-for-sprint-review)
-      - [5.3.1.7. Team Collaboration Insights during Sprint](#5317-team-collaboration-insights-during-sprint)
-      - [5.3.1.8. Kanban Board](#5318-kanban-board)
-    - [5.3.2. Sprint 2](#532-sprint-2)
-      - [5.3.2.1. Sprint Backlog 2](#5321-sprint-backlog-2)
-      - [5.3.2.2. Development Evidence for Sprint Review](#5322-development-evidence-for-sprint-review)
-      - [5.3.2.3. Testing Suite Evidence for Sprint Review](#5323-testing-suite-evidence-for-sprint-review)
-      - [5.3.2.4. Execution Evidence for Sprint Review](#5324-execution-evidence-for-sprint-review)
-      - [5.3.2.5. Microservices Documentation Evidence for Sprint Review](#5325-microservices-documentation-evidence-for-sprint-review)
-      - [5.3.2.6. Software Deployment Evidence for Sprint Review](#5326-software-deployment-evidence-for-sprint-review)
-      - [5.3.2.7. Team Collaboration Insights During Sprint](#5327-team-collaboration-insights-during-sprint)
-      - [5.3.2.8. Kanban Board](#5328-kanban-board)
-    - [5.3.3. Sprint 3](#533-sprint-3)
-      - [5.3.3.1. Sprint Backlog 3](#5331-sprint-backlog-3)
-      - [5.3.3.2. Development Evidence for Sprint Review](#5332-development-evidence-for-sprint-review)
-      - [5.3.3.3. Testing Suite Evidence for Sprint Review](#5333-testing-suite-evidence-for-sprint-review)
-      - [5.3.3.4. Execution Evidence for Sprint Review](#5334-execution-evidence-for-sprint-review)
-      - [5.3.3.5. Microservices Documentation Evidence for Sprint Review](#5335-microservices-documentation-evidence-for-sprint-review)
-      - [5.3.3.6. Software Deployment Evidence for Sprint Review](#5336-software-deployment-evidence-for-sprint-review)
-      - [5.3.3.7. Team Collaboration Insights during Sprint](#5337-team-collaboration-insights-during-sprint)
-      - [5.3.3.8. Kanban Board](#5338-kanban-board)
-    - [5.3.4. Sprint 4](#534-sprint-4)
-      - [5.3.4.1. Sprint Backlog 4](#5341-sprint-backlog-4)
-      - [5.3.4.2. Development Evidence for Sprint Review](#5342-development-evidence-for-sprint-review)
-      - [5.3.4.3. Testing Suite Evidence for Sprint Review](#5343-testing-suite-evidence-for-sprint-review)
-      - [5.3.4.4. Execution Evidence for Sprint Review](#5344-execution-evidence-for-sprint-review)
-      - [5.3.4.5. Microservices Documentation Evidence for Sprint Review](#5345-microservices-documentation-evidence-for-sprint-review)
-      - [5.3.4.6. Software Deployment Evidence for Sprint Review](#5346-software-deployment-evidence-for-sprint-review)
-      - [5.3.4.7. Team Collaboration Insights during Sprint](#5347-team-collaboration-insights-during-sprint)
-      - [5.3.4.8. Kanban Board](#5348-kanban-board)
-  - [5.4. Microservices Deployment](#54-microservices-deployment)
-    - [5.4.1. Cloud Architecture Diagram](#541-cloud-architecture-diagram)
-    - [5.4.2. Cloud Architecture Deployment](#542-cloud-architecture-deployment)
+    - [4.1.7 Tactics](#417-tactics)
+  - [4.2 Architectural Drivers](#42-architectural-drivers)
+    - [4.2.1 Design Purpose](#421-design-purpose)
+    - [4.2.2 Primary Functionality](#422-primary-functionality-primary-user-stories)
+    - [4.2.3 Quality Attribute Scenarios](#423-quality-attribute-scenarios)
+    - [4.2.4 Constraints](#424-constraints)
+    - [4.2.5 Architectural Concerns](#425-architectural-concerns)
+  - [4.3 ADD Iterations](#43-add-iterations)
+    - [4.3.1 Iteration 1: Global System Structure](#431-iteration-1-global-system-structure)
+      - [4.3.1.1 Architectural Design Backlog](#add1-backlog)
+      - [4.3.1.2 Iteration Goal](#add1-goal)
+      - [4.3.1.3 Elements to Refine](#add1-refine)
+      - [4.3.1.4 Design Concepts](#add1-concepts)
+      - [4.3.1.5 Elements, Responsibilities and Interfaces](#add1-elements)
+      - [4.3.1.6 Views and Decisions](#add1-views)
+      - [4.3.1.7 Analysis and Kanban](#add1-review)
+    - [4.3.2 Iteration 2: Identity and Documents](#432-iteration-2-validación-de-identidad-y-gestión-de-documentos-digitales)
+      - [4.3.2.1 Backlog](#add2-backlog)
+      - [4.3.2.2 Iteration Goal](#add2-goal)
+      - [4.3.2.3 Elements to Refine](#add2-refine)
+      - [4.3.2.4 Design Concepts](#add2-concepts)
+      - [4.3.2.5 Elements, Responsibilities and Interfaces](#add2-elements)
+      - [4.3.2.6 Views and Decisions](#add2-views)
+      - [4.3.2.7 Analysis and Kanban](#add2-review)
+    - [4.3.3 Iteration 3: Payments and Wallet](#433-iteration-3-pagos-recargas-y-billetera-digital)
+      - [4.3.3.1 Backlog](#add3-backlog)
+      - [4.3.3.2 Iteration Goal](#add3-goal)
+      - [4.3.3.3 Elements to Refine](#add3-refine)
+      - [4.3.3.4 Design Concepts](#add3-concepts)
+      - [4.3.3.5 Elements, Responsibilities and Interfaces](#add3-elements)
+      - [4.3.3.6 Views and Decisions](#add3-views)
+      - [4.3.3.7 Analysis and Kanban](#add3-review)
+    - [4.3.4 Iteration 4: Security](#434-iteration-4-seguridad-autenticación-y-protección-de-datos)
+      - [4.3.4.1 Backlog](#add4-backlog)
+      - [4.3.4.2 Iteration Goal](#add4-goal)
+      - [4.3.4.3 Elements to Refine](#add4-refine)
+      - [4.3.4.4 Design Concepts](#add4-concepts)
+      - [4.3.4.5 Elements, Responsibilities and Interfaces](#add4-elements)
+      - [4.3.4.6 Views and Decisions](#add4-views)
+      - [4.3.4.7 Analysis and Kanban](#add4-review)
+    - [4.3.5 Iteration 5: Notifications](#435-iteration-5-notificaciones-alertas-y-seguimiento-de-trámites)
+      - [4.3.5.1 Backlog](#add5-backlog)
+      - [4.3.5.2 Iteration Goal](#add5-goal)
+      - [4.3.5.3 Elements to Refine](#add5-refine)
+      - [4.3.5.4 Design Concepts](#add5-concepts)
+      - [4.3.5.5 Elements, Responsibilities and Interfaces](#add5-elements)
+      - [4.3.5.6 Views and Decisions](#add5-views)
+      - [4.3.5.7 Analysis and Kanban](#add5-review)
+- [Capítulo V: Product Implementation, Validation & Deployment](#chapter-5)
+  - [5.1 Testing Suites & General Patterns](#chapter-5-testing)
+    - [5.1.1 Backend Application Core Testing Suite](#511-backend-application-core-testing-suite)
+    - [5.1.2 Pattern Based Backend Applications](#512-pattern-based-backend-applications)
+    - [5.1.3 Pattern Based Custom Software Library](#513-pattern-based-custom-software-library)
+    - [5.1.4 Framework Pattern Driven Refactoring Report](#514-framework-pattern-driven-refactoring-report)
+  - [5.2 Software Configuration Management](#chapter-5-configuration)
+    - [5.2.1 Software Development Environment](#521-software-development-environment-configuration)
+    - [5.2.2 Source Code Management](#522-source-code-management)
+    - [5.2.3 Style Guide](#523-source-code-style-guide--conventions)
+    - [5.2.4 Deployment Configuration](#524-software-deployment-configuration)
+      - [5.2.4.1 Container Packaging and Deployment Evidence](#5241-container-packaging-and-deployment-evidence)
+    - [5.2.5 Backend Code Structure](#525-backend-code-structure-and-conventions)
+  - [5.3 Microservices Implementation](#chapter-5-sprints)
+    - [Sprint 1](#531-sprint-1)
+      - [Backlog](#sprint1-backlog)
+      - [Development Evidence](#sprint1-development)
+      - [Testing Evidence](#sprint1-testing)
+      - [Execution Evidence](#sprint1-execution)
+      - [API Documentation](#sprint1-api-docs)
+      - [Deployment Evidence](#sprint1-deployment)
+      - [Collaboration Insights](#sprint1-collaboration)
+      - [Kanban Board](#sprint1-kanban)
+    - [Sprint 2](#532-sprint-2)
+      - [Backlog](#sprint2-backlog)
+      - [Development Evidence](#sprint2-development)
+      - [Testing Evidence](#sprint2-testing)
+      - [Execution Evidence](#sprint2-execution)
+      - [API Documentation](#sprint2-api-docs)
+      - [Deployment Evidence](#sprint2-deployment)
+      - [Collaboration Insights](#sprint2-collaboration)
+      - [Kanban Board](#sprint2-kanban)
+    - [Sprint 3](#533-sprint-3)
+      - [Backlog](#sprint3-backlog)
+      - [Development Evidence](#sprint3-development)
+      - [Testing Evidence](#sprint3-testing)
+      - [Execution Evidence](#sprint3-execution)
+      - [API Documentation](#sprint3-api-docs)
+      - [Deployment Evidence](#sprint3-deployment)
+      - [Collaboration Insights](#sprint3-collaboration)
+      - [Kanban Board](#sprint3-kanban)
+    - [Sprint 4](#534-sprint-4)
+      - [Backlog](#sprint4-backlog)
+      - [Development Evidence](#sprint4-development)
+      - [Testing Evidence](#sprint4-testing)
+      - [Execution Evidence](#sprint4-execution)
+      - [API Documentation](#sprint4-api-docs)
+      - [Deployment Evidence](#sprint4-deployment)
+      - [Collaboration Insights](#sprint4-collaboration)
+      - [Kanban Board](#sprint4-kanban)
+  - [5.4 Microservices Deployment](#chapter-5-cloud)
+    - [Cloud Architecture Diagram](#541-cloud-architecture-diagram)
+    - [Cloud Architecture Deployment](#542-cloud-architecture-deployment)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-The-Team](#video-about-the-team)
 - [Uso de herramientas de IA](#uso-de-herramientas-de-ia)
-- [Referencias bibliográficas](#referencias-bibliográficas)
+- [Referencias bibliográficas](#referencias)
 - [Anexos](#anexos)
-  - [Anexo B: Final Individual Member Performance Report](#anexo-b-final-individual-member-performance-report)
-    - [Performance report TB1 (upc-pre-202102-si657-[sección pendiente]-PayID-performance-tb1)](#performance-report-tb1-upc-pre-202102-si657-sección-pendiente-payid-performance-tb1)
-    - [Performance report TP1 (upc-pre-202102-si657-[sección pendiente]-PayID-performance-tp1)](#performance-report-tp1-upc-pre-202102-si657-sección-pendiente-payid-performance-tp1)
-    - [Performance report TF1 (upc-pre-202102-si657-[sección pendiente]-PayID-performance-tf1)](#performance-report-tf1-upc-pre-202102-si657-sección-pendiente-payid-performance-tf1)
-  - [Anexo C: Matriz de cumplimiento de rúbricas](#anexo-c-matriz-de-cumplimiento-de-rúbricas)
-    - [Rúbrica TB1 (Sprint 0 Review)](#rúbrica-tb1-sprint-0-review)
-    - [Rúbrica TB2 (Sprint 2 Review)](#rúbrica-tb2-sprint-2-review)
-    - [Rúbrica TP1 (Stage Review)](#rúbrica-tp1-stage-review)
-    - [Rúbrica TB3 (Sprint Review)](#rúbrica-tb3-sprint-review)
-    - [Rúbrica TB4 (Sprint Review)](#rúbrica-tb4-sprint-review)
-    - [Rúbrica TF1 (Release Review)](#rúbrica-tf1-release-review)
-  - [Anexo D: Cronograma de entregables](#anexo-d-cronograma-de-entregables)
-  - [Anexo E: Términos y condiciones de servicio](#anexo-e-términos-y-condiciones-de-servicio)
-  - [Anexo F: Registro completo de commits de los integrantes](#anexo-f-registro-completo-de-commits-de-los-integrantes)
-    - [Previo al ciclo 202620 (código base reutilizado de cursos anteriores)](#previo-al-ciclo-202620-código-base-reutilizado-de-cursos-anteriores)
-    - [Sprint 0: 24/08/2026 al 13/09/2026 (Avance 1 / TB1)](#sprint-0-24082026-al-13092026-avance-1--tb1)
-    - [Sprint 1: 14/09/2026 al 11/10/2026 (Avance 2 y TP1)](#sprint-1-14092026-al-11102026-avance-2-y-tp1)
-    - [Sprint 2: 12/10/2026 al 01/11/2026 (Avance 3)](#sprint-2-12102026-al-01112026-avance-3)
-    - [Sprint 3: 02/11/2026 al 15/11/2026 (Avance 4)](#sprint-3-02112026-al-15112026-avance-4)
+  - [Anexo B: Performance Reports](#anexo-b-final-individual-member-performance-report)
+  - [Anexo C: Matriz de rúbricas](#anexo-c-matriz-de-cumplimiento-de-rúbricas)
+  - [Anexo D: Cronograma](#anexo-d-cronograma-de-entregables)
+  - [Anexo E: Términos y condiciones](#anexo-e-términos-y-condiciones-de-servicio)
+  - [Anexo F: Registro de commits](#anexo-f-registro-completo-de-commits-de-los-integrantes)
 - [Links](#links)
 
 ---
 
+<a id="student-outcome"></a>
 # Student Outcome: ABET – EAC – Student Outcome 3
 
 Comunicación efectiva
@@ -319,7 +272,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 Nota: las acciones de los hitos TB2 a TB4 se sustentan en los commits de los repositorios y en el registro de versiones. La participación oral en cada exposición y las conclusiones deben ser registradas por cada integrante.
 
-# CAPÍTULO I: Presentación
+<a id="chapter-1"></a>
+# CAPÍTULO I: Introducción
 
 ## 1.1. Startup Profile
 
@@ -403,7 +357,7 @@ HOW (CÓMO): La solución se plantea mediante el desarrollo de PayID como un eco
 
 HOW MUCH (CUÁNTO): La implementación de PayID requiere considerar los costos asociados al desarrollo del ecosistema digital, la infraestructura en la nube, el almacenamiento de documentos, los mecanismos de seguridad y el mantenimiento de las funcionalidades. También deben contemplarse los recursos necesarios para establecer integraciones con proveedores de pagos y servicios de transporte. Desde la perspectiva del usuario, la propuesta busca reducir el esfuerzo y el tiempo dedicados a gestionar documentos, consultar información y realizar operaciones cotidianas. Estos elementos constituyen criterios para la evaluación económica y técnica del proyecto; los costos específicos deberán determinarse durante su planificación.
 
-### 1.2.2. Lean UX Process
+### 1.2.3. Lean UX Process
 
 #### 1.2.3.1. Lean UX Problem Statements
 
@@ -541,7 +495,8 @@ Segmento 3: Comercios y Servicios del Ecosistema Universitario (B2B)
 - Problema o necesidad (Dolor): Dificultad para validar de manera rápida y fiable la condición de estudiante activo para aplicar promociones, sufriendo fraudes por carnés físicos vencidos o adulterados. Adicionalmente, padecen lentitud en el cobro en horas pico mediante efectivo o terminales de pago lentos.
 - Propuesta de valor de PayID: Herramienta ágil de cobro y validación simultánea que comprueba al instante la identidad y vigencia académica del cliente mediante códigos seguros, acelerando la atención en caja y reduciendo el fraude sin requerir infraestructura de hardware costosa.
 
-# CAPÍTULO II: Requirements Development and Software Solution Design
+<a id="chapter-2"></a>
+# CAPÍTULO II: Requirements & Analysis
 
 ## 2.1. Competidores
 
@@ -605,7 +560,7 @@ Tácticas:
 
 • Alianzas con universidades y colectivos de transporte.
 
-• Campañas digitales: “Olvídate de cargar documentos físicos, usa KapakID”.
+• Campañas digitales: “Olvídate de cargar documentos físicos, usa PayID”.
 
 • Modelo freemium: básico gratis, premium con alertas avanzadas y perfiles múltiples.
 
@@ -621,7 +576,7 @@ Segmentos objetivo:
 
 Objetivo: Identificar las principales necesidades, dificultades y expectativas de los usuarios respecto a la gestión de documentos, trámites y servicios desde dispositivos móviles, así como conocer sus percepciones sobre seguridad, facilidad de uso, disponibilidad, alertas y administración de múltiples perfiles. .
 
-Preguntas para el segmento 1: Estudiantes universitarios
+#### Preguntas para el segmento 1: Estudiantes universitarios
 
 - ¿Qué documentos, carnés o tarjetas necesitas utilizar o llevar contigo con mayor frecuencia y para qué los utilizas?
 - Cuéntame sobre la última vez que necesitaste un documento y no lo tenías contigo. ¿Qué ocurrió y cómo solucionaste el problema?
@@ -634,7 +589,7 @@ Preguntas para el segmento 1: Estudiantes universitarios
 - Si existiera una aplicación que centralizara tus documentos, trámites y recordatorios, ¿qué problema esperarías que resolviera principalmente para ti?
 - De todo lo que hemos conversado, ¿cuáles serían las tres funciones que considerarías indispensables y por qué?
 
-### Preguntas para el segmento 2: Padres, madres o tutores
+#### Preguntas para el segmento 2: Padres, madres o tutores
 
 - ¿Qué documentos de tus hijos o familiares necesitas gestionar o utilizar con mayor frecuencia y para qué los necesitas?
 - ¿Cómo organizas actualmente los documentos de tus hijos o familiares? ¿Qué dificultades encuentras para mantenerlos ordenados?
@@ -968,9 +923,16 @@ Access & Profiles (Acceso y Perfiles)
 - Family Profile (Perfil Familiar): Espacio dentro de la aplicación que permite administrar documentos de hijos u otros familiares o dependientes autorizados.
 - Procedure Assistant (Asistente de Trámites): Función que orienta al usuario durante la realización de un trámite mediante instrucciones, pasos y listas de verificación.
 
+<a id="chapter-3"></a>
 # CAPÍTULO III: Requirements Specification
 
-## 3.1. User Stories
+<a id="chapter-3-tobe"></a>
+## 3.1. To-Be Scenario Mapping
+
+[Pendiente] Incorporar los To-Be Scenario Maps de cada User Persona con las filas Phases, Doing, Thinking y Feeling, explicar cómo se elaboraron y contrastarlos con los escenarios As-Is. La sección de User Stories que ya existe pasa a 3.2.
+
+<a id="chapter-3-user-stories"></a>
+## 3.2. User Stories
 
 | Epic ID | Título | Descripción |
 |---|---|---|
@@ -1008,11 +970,13 @@ Tabla de US
 | US21 | Centro de notificaciones | Como usuario, quiero disponer de un centro de notificaciones dentro de PayID para consultar los avisos relacionados con mis operaciones y documentos. | Scenario 1: Generación de notificación. Given un usuario que ha realizado una operación correctamente. When el sistema confirma el resultado de la operación. Then genera una notificación que puede consultarse desde el centro de notificaciones.  Scenario 2: Consulta de notificaciones. Given un usuario que tiene notificaciones registradas. When ingresa al centro de notificaciones. Then visualiza los avisos ordenados desde el más reciente hasta el más antiguo. | E5 |
 | US22 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión en PayID utilizando mis credenciales para acceder de manera segura a mi cuenta y a las funcionalidades disponibles. | Scenario 1: Inicio de sesión exitoso.<br>Given un usuario que tiene una cuenta registrada en PayID.<br>When ingresa sus credenciales correctas y confirma el inicio de sesión.<br>Then el sistema valida sus datos y permite el acceso a su cuenta.<br>Scenario 2: Credenciales incorrectas.<br>Given un usuario que se encuentra en la pantalla de inicio de sesión.<br>When ingresa credenciales incorrectas.<br>Then el sistema deniega el acceso e informa que las credenciales no son válidas.<br>Scenario 3: Bloqueo por intentos fallidos.<br>Given un usuario que se encuentra en la pantalla de inicio de sesión y ha acumulado cuatro intentos fallidos consecutivos.<br>When ingresa credenciales incorrectas por quinta vez consecutiva.<br>Then el sistema bloquea temporalmente el acceso a la cuenta durante 15 minutos y notifica al titular. | E1 |
 
-## 3.2 Impact Mapping
+<a id="chapter-3-impact-map"></a>
+## 3.3. Impact Map
 
-[Insertar imagen: Impact Mapping]
+[Pendiente] Insertar y explicar el Impact Map elaborado con Business Goals SMART, actores/personas, impactos, entregables e historias de usuario.
 
-## 3.3 Product Backlog
+<a id="chapter-3-product-backlog"></a>
+## 3.4. Product Backlog
 
 | Order | US ID | Título | Descripción | Story Points |
 |---|---|---|---|---|
@@ -1049,11 +1013,12 @@ Raul Hiroshi Tasayco Osorio
 
 ![Imagen](assets/report/cap-3/img-25f33435db.png)
 
+<a id="chapter-4"></a>
 # CAPÍTULO IV: Product Architecture Design
 
 ## 4.1 Design Concepts, ViewPoints & ER Diagrams
 
-Esta sección se centra en los conceptos fundamentales de diseño, los diferentes puntos de vista que adoptaremos para comprender y comunicar la arquitectura, y los diagramas de Entidad-Relación para modelar los datos de KapakID.
+Esta sección se centra en los conceptos fundamentales de diseño, los diferentes puntos de vista que adoptaremos para comprender y comunicar la arquitectura, y los diagramas de Entidad-Relación para modelar los datos de PayID.
 
 ### 4.1.1 Principles Statements
 
@@ -1113,11 +1078,11 @@ El sistema debe cumplir con las leyes peruanas (Ley N° 29733, normativas SBS y 
 
 ### 4.1.2 Approaches Statements
 
-Los enfoques metodológicos de KapakID son las estrategias que guiarán el diseño, desarrollo y despliegue del sistema. Estos enfoques aseguran que la arquitectura esté alineada con las mejores prácticas de la industria y con los objetivos del negocio.
+Los enfoques metodológicos de PayID son las estrategias que guiarán el diseño, desarrollo y despliegue del sistema. Estos enfoques aseguran que la arquitectura esté alineada con las mejores prácticas de la industria y con los objetivos del negocio.
 
 - Domain-Driven Design (DDD)
 
-Adoptaremos DDD como un enfoque primordial para asegurar que la arquitectura de KapakID refleje fielmente el modelo del negocio. Esto implica:
+Adoptaremos DDD como un enfoque primordial para asegurar que la arquitectura de PayID refleje fielmente el modelo del negocio. Esto implica:
 
 | Aspecto | Descripción |
 |---|---|
@@ -1141,7 +1106,7 @@ Utilizaremos ADD del SEI como técnica para descomponer y planificar el diseño 
 
 ### Arquitectura de Microservicios
 
-Adoptaremos un estilo de Arquitectura de Microservicios, donde KapakID se estructura como una colección de servicios débilmente acoplados, organizados alrededor de las capacidades del negocio.
+Adoptaremos un estilo de Arquitectura de Microservicios, donde PayID se estructura como una colección de servicios débilmente acoplados, organizados alrededor de las capacidades del negocio.
 
 | Microservicio | Responsabilidad |
 |---|---|
@@ -1186,7 +1151,7 @@ Implementaremos un proceso de entrega continua para poder liberar nuevas funcion
 
 ### Cloud Native
 
-Diseñaremos KapakID para ser desplegado en la nube con contenedores (Docker) y orquestación (Kubernetes). Usaremos Azure Kubernetes Service (AKS) con auto-scaling.
+Diseñaremos PayID para ser desplegado en la nube con contenedores (Docker) y orquestación (Kubernetes). Usaremos Azure Kubernetes Service (AKS) con auto-scaling.
 
 | Componente | Tecnología |
 |---|---|
@@ -1208,14 +1173,14 @@ Diseñaremos las interfaces REST de cada microservicio antes de implementar la l
 
 ### 4.1.3 Context Diagram
 
-El diagrama de contexto de KapakID muestra el sistema como una caja negra, identificando los actores que interactúan con él y los sistemas externos con los que se integra.
+El diagrama de contexto de PayID muestra el sistema como una caja negra, identificando los actores que interactúan con él y los sistemas externos con los que se integra.
 
 Actores:
 
 - Estudiante: registra documentos, recarga tarjetas de transporte y paga servicios.
 - Padre/Madre o Tutor: gestiona documentos de sus hijos o familiares.
 - Administrador Universitario: valida credenciales académicas.
-- Administrador KapakID: gestiona usuarios, comercios y configuraciones.
+- Administrador PayID: gestiona usuarios, comercios y configuraciones.
 - Comercio/Servicio: acepta pagos con QR.
 
 Sistemas externos:
@@ -1232,7 +1197,7 @@ Sistemas externos:
 
 Container diagram:
 
-El diagrama de contenedores de KapakID muestra los componentes internos del sistema: las aplicaciones cliente (App Móvil y Portal Web), el API Gateway como punto único de entrada, los BFF (Mobile y Web), los microservicios principales (Identidad, Pagos y Documentos), y la infraestructura de soporte (Kafka, Redis, SQL Server), junto con las integraciones con entidades gubernamentales, pasarelas de pago y servicios externos.
+El diagrama de contenedores de PayID muestra los componentes internos del sistema: las aplicaciones cliente (App Móvil y Portal Web), el API Gateway como punto único de entrada, los BFF (Mobile y Web), los microservicios principales (Identidad, Pagos y Documentos), y la infraestructura de soporte (Kafka, Redis, SQL Server), junto con las integraciones con entidades gubernamentales, pasarelas de pago y servicios externos.
 
 ![Imagen](assets/report/cap-4/img-eb04e9b7d1.png)
 
@@ -1244,7 +1209,7 @@ El diagrama de componentes del MS Pagos muestra los 8 componentes internos que p
 
 ### Diagramas UML:
 
-- Para describir la arquitectura de KapakID se emplean diagramas de componentes, clases y secuencia. Estos permiten representar la organización del backend, las entidades del dominio y la interacción entre los elementos que participan en los principales casos de uso. Las vistas se elaboran a partir de la implementación disponible y del alcance funcional descrito en el informe.
+- Para describir la arquitectura de PayID se emplean diagramas de componentes, clases y secuencia. Estos permiten representar la organización del backend, las entidades del dominio y la interacción entre los elementos que participan en los principales casos de uso. Las vistas se elaboran a partir de la implementación disponible y del alcance funcional descrito en el informe.
 
 Vista lógica:
 
@@ -1266,7 +1231,7 @@ La vista de procesos utiliza diagramas de secuencia para mostrar el orden de los
 
 ### 4.1.5 Relational / Non Relational Database Diagram
 
-KapakID utiliza una base de datos relacional MySQL, configurada mediante el proveedor Pomelo de Entity Framework Core. El modelo contiene nueve tablas: Users, Documents, Payments, Notifications, SupportTickets, PaymentCards, TransportCards, PaymentTransactions y TransportTransactions. Cada tabla posee una clave primaria Id de tipo char(36), correspondiente a Guid en C#. Los campos UserId, PaymentCardId y TransportCardId permiten identificar asociaciones entre registros. Los estados y tipos enumerados se almacenan como int; los importes y saldos utilizan decimal(65,30) en el snapshot revisado. No se encontró una base no relacional configurada en el backend.
+PayID utiliza una base de datos relacional MySQL, configurada mediante el proveedor Pomelo de Entity Framework Core. El modelo contiene nueve tablas: Users, Documents, Payments, Notifications, SupportTickets, PaymentCards, TransportCards, PaymentTransactions y TransportTransactions. Cada tabla posee una clave primaria Id de tipo char(36), correspondiente a Guid en C#. Los campos UserId, PaymentCardId y TransportCardId permiten identificar asociaciones entre registros. Los estados y tipos enumerados se almacenan como int; los importes y saldos utilizan decimal(65,30) en el snapshot revisado. No se encontró una base no relacional configurada en el backend.
 
 El diagrama conserva los nombres, tipos y nulabilidad definidos en FinTrackBackDbContextModelSnapshot. Las referencias se muestran con líneas punteadas porque el modelo y las migraciones revisadas no declaran restricciones de clave foránea para esos campos. Conceptualmente, un usuario puede tener varios documentos, pagos, notificaciones, tickets y tarjetas; cada tarjeta puede registrar varios movimientos. Implementar las claves foráneas sería una mejora posterior y no se presenta como una característica existente.
 
@@ -1274,7 +1239,7 @@ El diagrama conserva los nombres, tipos y nulabilidad definidos en FinTrackBackD
 
 ### 4.1.6 Design Patterns
 
-La implementación de KapakID combina patrones de diseño y de arquitectura para distribuir responsabilidades y reducir el acoplamiento. Se identifican los siguientes mecanismos en el código fuente:
+La implementación de PayID combina patrones de diseño y de arquitectura para distribuir responsabilidades y reducir el acoplamiento. Se identifican los siguientes mecanismos en el código fuente:
 
 | Patrón o mecanismo | Evidencia en el backend | Aplicación y propósito |
 |---|---|---|
@@ -1290,6 +1255,18 @@ La implementación de KapakID combina patrones de diseño y de arquitectura para
 Repository, DTO y Unit of Work pertenecen a patrones de aplicaciones empresariales; CQRS es un patrón arquitectónico e inyección de dependencias es una técnica/patrón de composición. Se distinguen estas categorías para no presentar todos los elementos como patrones GoF. No se atribuyen Factory, Observer o Singleton al código de negocio sin una implementación que los sustente. El registro AddScoped no constituye Singleton.
 
 ### 4.1.7. Tactics
+
+Las siguientes tácticas orientan el diseño de PayID para responder a los atributos de calidad definidos en la sección 4.2. Se describen como decisiones de diseño; su implementación debe verificarse con las evidencias del capítulo V.
+
+| Atributo de calidad | Táctica de diseño | Aplicación en PayID |
+|---|---|---|
+| Seguridad | Autenticación, autorización y privilegio mínimo | Proteger los endpoints y limitar el acceso a documentos, perfiles familiares y operaciones al usuario autorizado. |
+| Seguridad | Cifrado en tránsito y gestión externa de secretos | Proteger las comunicaciones y mantener claves y credenciales fuera del código fuente. |
+| Disponibilidad | Reintentos limitados y aislamiento de fallas | Manejar errores o demoras de RENIEC, pasarelas y proveedores de notificaciones sin bloquear otros flujos. |
+| Rendimiento | Caché y paginación | Reducir consultas repetidas y limitar el volumen de resultados en documentos e historial de transacciones. |
+| Integridad | Idempotencia y registro transaccional | Evitar pagos duplicados y conservar trazabilidad de las operaciones y sus estados. |
+| Interoperabilidad | Adaptadores y contratos API explícitos | Aislar los servicios externos y mantener contratos claros entre clientes, backend e integraciones. |
+| Modificabilidad | Separación de responsabilidades por dominio | Permitir evolucionar identidad, documentos, pagos y notificaciones con menor impacto entre módulos. |
 
 ## 4.2. Architectural Drivers
 
@@ -1388,15 +1365,17 @@ Las preocupaciones arquitectónicas son aspectos que el equipo debe considerar d
 
 ### 4.3.1. Iteration 1: Global System Structure
 
+<a id="add1-backlog"></a>
 #### 4.3.1.1. Architectural Design Backlog 1
 
 En la primera iteración del proyecto se definió el Architectural Design Backlog, compuesto por User Stories (necesidades del usuario), Constraints (restricciones técnicas y legales) y Architectural Concerns (preocupaciones arquitectónicas). Estas tarjetas fueron organizadas en un tablero Trello con las columnas TO-DO, IN-PROGRESS, TO-REVIEW y DONE, y su objetivo es establecer la estructura global del sistema, definiendo los microservicios principales, el API Gateway, los BFF, el bus de eventos (Kafka), las bases de datos y las integraciones externas.
 
 ![Imagen](assets/report/cap-4/img-d810732ce5.png)
 
+<a id="add1-goal"></a>
 #### 4.3.1.2. Establish Iteration Goal by Selecting Drivers
 
-El objetivo de la Iteration 1 es definir la estructura global del sistema KapakID, estableciendo los microservicios principales, el API Gateway, los BFF (Backend for Frontend), el bus de eventos (Kafka), las bases de datos y las integraciones externas, garantizando los atributos de calidad de performance, seguridad, escalabilidad e interoperabilidad.
+El objetivo de la Iteration 1 es definir la estructura global del sistema PayID, estableciendo los microservicios principales, el API Gateway, los BFF (Backend for Frontend), el bus de eventos (Kafka), las bases de datos y las integraciones externas, garantizando los atributos de calidad de performance, seguridad, escalabilidad e interoperabilidad.
 
 Para esta iteración se seleccionaron los siguientes drivers arquitectónicos:
 
@@ -1415,9 +1394,10 @@ Preocupaciones arquitectónicas:
 - Cumplimiento de la Ley N° 29733 (Ley de Protección de Datos Personales del Perú), garantizando la privacidad de la información de los usuarios.
 - Portabilidad cloud, evitando la dependencia de un único proveedor (Azure, AWS o Google Cloud).
 
+<a id="add1-refine"></a>
 #### 4.3.1.3. Choose One or More Elements of the System to Refine
 
-Para la Iteration 1 se seleccionaron los elementos arquitectónicos que serán refinados con el objetivo de establecer la estructura global del sistema KapakID. Estos elementos fueron elegidos porque abordan directamente los drivers identificados en la sub-sección anterior (performance, seguridad, escalabilidad e interoperabilidad).
+Para la Iteration 1 se seleccionaron los elementos arquitectónicos que serán refinados con el objetivo de establecer la estructura global del sistema PayID. Estos elementos fueron elegidos porque abordan directamente los drivers identificados en la sub-sección anterior (performance, seguridad, escalabilidad e interoperabilidad).
 
 Los elementos seleccionados son:
 
@@ -1470,9 +1450,10 @@ Integraciones externas:
 | 14 | Redis (Cache/Sesiones) | Base de datos | Performance |
 | 15 | Azure Key Vault | Componente | Seguridad |
 
+<a id="add1-concepts"></a>
 #### 4.3.1.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
 
-Para KapakID, una vez identificados los componentes del sistema que requieren refinamiento, el siguiente paso consiste en seleccionar los conceptos de diseño más adecuados que respondan a los drivers arquitectónicos previamente establecidos. Estos conceptos de diseño juegan un papel esencial en guiar el desarrollo de la aplicación y garantizar que se cumplan los objetivos definidos para la iteración de forma eficiente. A continuación, se detallan los conceptos de diseño elegidos para cada uno de los principales drivers:
+Para PayID, una vez identificados los componentes del sistema que requieren refinamiento, el siguiente paso consiste en seleccionar los conceptos de diseño más adecuados que respondan a los drivers arquitectónicos previamente establecidos. Estos conceptos de diseño juegan un papel esencial en guiar el desarrollo de la aplicación y garantizar que se cumplan los objetivos definidos para la iteración de forma eficiente. A continuación, se detallan los conceptos de diseño elegidos para cada uno de los principales drivers:
 
 - Performance:
 
@@ -1520,9 +1501,10 @@ Para KapakID, una vez identificados los componentes del sistema que requieren re
 | Despliegue Multi-zona en Azure | Se despliega en múltiples zonas de disponibilidad para garantizar que el sistema siga operando ante fallos de una zona. |
 | Backups Automatizados de MySQL | Se realizan backups diarios de la base de datos con retención de 30 días. |
 
+<a id="add1-elements"></a>
 #### 4.3.1.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
-Una vez seleccionados los conceptos de diseño que satisfacen los drivers arquitectónicos, el siguiente paso consiste en instanciar los elementos arquitectónicos concretos que conformarán el sistema KapakID, asignarles sus responsabilidades y definir las interfaces que permitirán su comunicación. A continuación, se detalla cada elemento, su rol dentro del sistema y los endpoints principales que expone.
+Una vez seleccionados los conceptos de diseño que satisfacen los drivers arquitectónicos, el siguiente paso consiste en instanciar los elementos arquitectónicos concretos que conformarán el sistema PayID, asignarles sus responsabilidades y definir las interfaces que permitirán su comunicación. A continuación, se detalla cada elemento, su rol dentro del sistema y los endpoints principales que expone.
 
 Instanciando elementos arquitectónicos:
 
@@ -1709,6 +1691,7 @@ Definiendo Interfaces REST:
 | MS Notificaciones | /notificaciones/enviar | POST | Enviar notificación | MS Pagos, MS Usuarios |
 | MS Auditoría | /auditoria/eventos | GET | Consultar eventos | MS Compliance |
 
+<a id="add1-views"></a>
 #### 4.3.1.6. Sketch Views (C4 & UML) and Record Design Decisions
 
 Para documentar el diseño arquitectónico de la Iteration 1, se hace referencia a las vistas C4 y UML presentadas en el Capítulo IV. Asimismo, se registran las decisiones de diseño tomadas durante esta iteración, cada una con su justificación alineada a los drivers arquitectónicos seleccionados (performance, seguridad, escalabilidad e interoperabilidad).
@@ -1719,9 +1702,9 @@ Diagrama de Contexto:
 
 | Elemento | Responsabilidad |
 |---|---|
-| Estudiante | Usa KapakID para gestionar documentos personales, recargar tarjetas de transporte y pagar servicios. |
+| Estudiante | Usa PayID para gestionar documentos personales, recargar tarjetas de transporte y pagar servicios. |
 | Padre/Madre o Tutor | Gestiona documentos de sus hijos o familiares desde una sola cuenta. |
-| Comercio/Servicio | Negocio afiliado que acepta pagos con QR a través de KapakID. |
+| Comercio/Servicio | Negocio afiliado que acepta pagos con QR a través de PayID. |
 | Institución Educativa | Universidad que valida credenciales académicas y emite carnés digitales. |
 | PayID | Plataforma digital que centraliza identidad, documentos y pagos en una sola aplicación. |
 | RENIEC | Sistema externo que valida DNI y datos de identidad. |
@@ -1776,6 +1759,7 @@ Diagrama de Componentes:
 | Sistema de Transporte | Recarga de tarjetas Metropolitano y Lima Pass. |
 | Azure Key Vault | Gestión segura de secretos y claves de cifrado. |
 
+<a id="add1-review"></a>
 #### 4.3.1.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
 
 Al cierre de la Iteration 1, se analiza el diseño actual del sistema y se revisa el cumplimiento del objetivo planteado. El tablero Kanban refleja el avance del equipo durante la iteración.
@@ -1786,6 +1770,7 @@ Enlace: [Trello -PayID — Iteration 1: Global System Structure](https://trello.
 
 ### 4.3.2. Iteration 2: Validación de Identidad y Gestión de Documentos Digitales
 
+<a id="add2-backlog"></a>
 #### 4.3.2.1. Architectural Design Backlog 2
 
 En la segunda iteración se definió el Architectural Design Backlog enfocado en la gestión de la identidad y de los documentos digitales de PayID. Esta iteración refina los elementos encargados de registrar, validar, almacenar y consultar los documentos de los usuarios, incluyendo la integración con RENIEC, el manejo de la validación pendiente y el acceso sin conexión a documentos verificados.
@@ -1805,6 +1790,7 @@ En la segunda iteración se definió el Architectural Design Backlog enfocado en
 | Architectural Concern | ARC-04 | Manejar fallas o demoras de RENIEC sin bloquear al usuario. |
 | Architectural Concern | ARC-07 | Proteger los documentos guardados en el celular y sincronizarlos al volver la conexión. |
 
+<a id="add2-goal"></a>
 #### 4.3.2.2. Establish Iteration Goal by Selecting Drivers
 
 El objetivo de la Iteration 2 es refinar la gestión de identidad y documentos de PayID, de modo que el usuario pueda registrar su DNI y otros documentos, validarlos con RENIEC sin quedar bloqueado si el servicio no responde, organizarlos por perfil familiar y consultarlos incluso sin conexión a internet.
@@ -1820,6 +1806,7 @@ Para esta iteración se seleccionaron los siguientes drivers arquitectónicos:
 | Restricción | CON-05, CON-06 | Ley N.° 29733 y dependencia de servicios externos (RENIEC). |
 | Preocupación | ARC-01, ARC-04, ARC-07 | Control de acceso, tolerancia a fallas de RENIEC y almacenamiento local protegido. |
 
+<a id="add2-refine"></a>
 #### 4.3.2.3. Choose One or More Elements of the System to Refine
 
 Para la Iteration 2 se seleccionaron los elementos que participan en el registro, la validación y la consulta de documentos. Se incorpora el MS Documentos como nuevo microservicio, separando la gestión de documentos de la validación de identidad que realiza el MS Identidad.
@@ -1835,6 +1822,7 @@ Para la Iteration 2 se seleccionaron los elementos que participan en el registro
 | 7 | App móvil (Flutter) – almacenamiento local | Cliente | QA-06, ARC-07 |
 | 8 | Apache Kafka | Componente | QA-04 |
 
+<a id="add2-concepts"></a>
 #### 4.3.2.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
 
 A continuación, se presentan los conceptos de diseño seleccionados para responder a los drivers de esta iteración, agrupados por atributo de calidad.
@@ -1870,6 +1858,7 @@ A continuación, se presentan los conceptos de diseño seleccionados para respon
 | Control de acceso por titular y perfil familiar | Cada solicitud verifica que el usuario sea el titular del documento o el responsable del perfil familiar. |
 | Cifrado de archivos en reposo | Las imágenes de los documentos se guardan cifradas en Azure Blob Storage, con claves administradas en Azure Key Vault. |
 
+<a id="add2-elements"></a>
 #### 4.3.2.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
 En esta etapa se instancian los elementos refinados, se asignan sus responsabilidades y se definen las interfaces de comunicación.
@@ -1907,6 +1896,7 @@ Eventos de dominio publicados en Apache Kafka:
 | IdentityValidationPending | MS Identidad | MS Documentos, MS Notificaciones |
 | IdentityValidationRejected | MS Identidad | MS Documentos, MS Notificaciones |
 
+<a id="add2-views"></a>
 #### 4.3.2.6. Sketch Views (C4 & UML) and Record Design Decisions
 
 Las vistas de esta iteración representan los elementos refinados y su interacción. Se recomienda incluir los siguientes diagramas:
@@ -1924,6 +1914,7 @@ Registro de decisiones de diseño:
 | DD-2.3 | Polly para reintentos y Circuit Breaker | Reintentos manuales en el código | Polly es la librería estándar de resiliencia en .NET y se configura por políticas. |
 | DD-2.4 | Almacenamiento local cifrado en Flutter | Guardar los documentos sin cifrar | Protege los datos personales en el celular (CON-05, ARC-07). |
 
+<a id="add2-review"></a>
 #### 4.3.2.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
 
 Al cierre de la Iteration 2, se analiza el diseño actual y se revisa el avance de los drivers seleccionados. Se utilizan tres estados: Diseñado, cuando existe una solución arquitectónica definida; Parcial, cuando falta completar o definir algún aspecto; y Validado, cuando existen pruebas o evidencias que demuestran su cumplimiento. Los drivers pasarán a Validado con las evidencias del capítulo V.
@@ -1937,6 +1928,7 @@ Al cierre de la Iteration 2, se analiza el diseño actual y se revisa el avance 
 
 ### 4.3.3. Iteration 3: Pagos, Recargas y Billetera Digital
 
+<a id="add3-backlog"></a>
 #### 4.3.3.1. Architectural Design Backlog 3
 
 En la tercera iteración se definió el Architectural Design Backlog enfocado en las operaciones de pago y recarga de PayID. Esta iteración refina los elementos que procesan las recargas de tarjetas de transporte, el pago de servicios y deudas, la billetera digital y el historial de transacciones, considerando la integración con la pasarela de pagos y los operadores de transporte.
@@ -1954,6 +1946,7 @@ En la tercera iteración se definió el Architectural Design Backlog enfocado en
 | Architectural Concern | ARC-03 | Mantener la consistencia de saldos y movimientos en operaciones distribuidas. |
 | Architectural Concern | ARC-04 | Manejar fallas o demoras de la pasarela de pagos sin bloquear al usuario. |
 
+<a id="add3-goal"></a>
 #### 4.3.3.2. Establish Iteration Goal by Selecting Drivers
 
 El objetivo de la Iteration 3 es refinar el procesamiento de pagos y recargas de PayID, de modo que cada operación se registre y muestre su estado en menos de 2 segundos, que no se dupliquen cobros ante reintentos y que los saldos y movimientos se mantengan consistentes aunque falle la pasarela de pagos.
@@ -1969,6 +1962,7 @@ Para esta iteración se seleccionaron los siguientes drivers arquitectónicos:
 | Restricción | CON-06 | Dependencia de servicios externos (pasarela de pagos y operadores de transporte). |
 | Preocupación | ARC-03, ARC-04 | Consistencia de saldos y tolerancia a fallas externas. |
 
+<a id="add3-refine"></a>
 #### 4.3.3.3. Choose One or More Elements of the System to Refine
 
 Para la Iteration 3 se seleccionaron los elementos que intervienen en el flujo de una operación de pago o recarga, desde que el usuario la confirma hasta que se registra en su historial.
@@ -1984,6 +1978,7 @@ Para la Iteration 3 se seleccionaron los elementos que intervienen en el flujo d
 | 7 | Apache Kafka | Componente | QA-05, ARC-03 |
 | 8 | BFF Mobile | Componente | QA-01, US19 |
 
+<a id="add3-concepts"></a>
 #### 4.3.3.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
 
 A continuación, se presentan los conceptos de diseño seleccionados para responder a los drivers de esta iteración, agrupados por atributo de calidad.
@@ -2012,6 +2007,7 @@ A continuación, se presentan los conceptos de diseño seleccionados para respon
 | Escalamiento horizontal del MS Pagos | En fechas de alta demanda se agregan instancias del MS Pagos de forma automática. |
 | Comunicación por eventos | Las notificaciones y la auditoría se procesan de forma asíncrona, de modo que su falla no detiene los pagos. |
 
+<a id="add3-elements"></a>
 #### 4.3.3.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
 En esta etapa se instancian los elementos que participan en las operaciones financieras de PayID y se definen sus interfaces.
@@ -2047,6 +2043,7 @@ Eventos de dominio publicados en Apache Kafka:
 | PaymentRejected | MS Pagos y Billetera | MS Notificaciones, MS Auditoría |
 | BalanceUpdated | MS Pagos y Billetera | BFF Mobile (actualización de la billetera) |
 
+<a id="add3-views"></a>
 #### 4.3.3.6. Sketch Views (C4 & UML) and Record Design Decisions
 
 Las vistas de esta iteración representan los elementos refinados y su interacción. Se recomienda incluir los siguientes diagramas:
@@ -2064,6 +2061,7 @@ Registro de decisiones de diseño:
 | DD-3.3 | Confirmación asíncrona | Esperar la respuesta de la pasarela | Permite responder en menos de 2 segundos (QA-01). |
 | DD-3.4 | CQRS para el historial | Consultar directamente el Payment Ledger | Las consultas frecuentes no afectan el registro de nuevas operaciones. |
 
+<a id="add3-review"></a>
 #### 4.3.3.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
 
 Al cierre de la Iteration 3, se analiza el diseño actual y se revisa el avance de los drivers seleccionados. Se utilizan tres estados: Diseñado, cuando existe una solución arquitectónica definida; Parcial, cuando falta completar o definir algún aspecto; y Validado, cuando existen pruebas o evidencias que demuestran su cumplimiento. Los drivers pasarán a Validado con las evidencias del capítulo V.
@@ -2079,6 +2077,7 @@ Enlace: [Agregar enlace del tablero de la Iteration 3]
 
 ### 4.3.4. Iteration 4: Seguridad, Autenticación y Protección de Datos
 
+<a id="add4-backlog"></a>
 #### 4.3.4.1. Architectural Design Backlog 4
 
 En la cuarta iteración se definió el Architectural Design Backlog enfocado en la seguridad de PayID. Esta iteración refina los elementos responsables de la autenticación de los usuarios, el control de acceso a los documentos y perfiles familiares, la protección de los datos personales y la auditoría de las operaciones críticas.
@@ -2096,6 +2095,7 @@ En la cuarta iteración se definió el Architectural Design Backlog enfocado en 
 
 [Insertar captura de las tarjetas del Architectural Design Backlog 4 (Trello o Miro)]
 
+<a id="add4-goal"></a>
 #### 4.3.4.2. Establish Iteration Goal by Selecting Drivers
 
 El objetivo de la Iteration 4 es refinar la seguridad de PayID, de modo que solo los usuarios autenticados y autorizados accedan a sus documentos y a los de sus perfiles familiares, que los intentos de acceso indebido se bloqueen, que los datos personales se protejan conforme a la Ley N.° 29733 y que las operaciones críticas queden registradas.
@@ -2109,6 +2109,7 @@ Para esta iteración se seleccionaron los siguientes drivers arquitectónicos:
 | Restricción | CON-05 | Cumplimiento de la Ley N.° 29733. |
 | Preocupación | ARC-01, ARC-05, ARC-06 | Control de acceso, gestión de secretos y auditoría. |
 
+<a id="add4-refine"></a>
 #### 4.3.4.3. Choose One or More Elements of the System to Refine
 
 Para la Iteration 4 se seleccionaron los elementos que intervienen en la autenticación, la autorización, la protección de datos y la trazabilidad de PayID.
@@ -2123,6 +2124,7 @@ Para la Iteration 4 se seleccionaron los elementos que intervienen en la autenti
 | 6 | MS Auditoría | Microservicio | ARC-06 |
 | 7 | Redis | Caché | QA-02 |
 
+<a id="add4-concepts"></a>
 #### 4.3.4.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
 
 A continuación, se presentan los conceptos de diseño seleccionados para responder a los drivers de esta iteración, agrupados por atributo de calidad.
@@ -2158,6 +2160,7 @@ A continuación, se presentan los conceptos de diseño seleccionados para respon
 | Registro de auditoría de solo escritura | El MS Auditoría guarda inicios de sesión, pagos y cambios en documentos sin permitir modificaciones posteriores. |
 | Exclusión de datos sensibles en la auditoría | No se registran contraseñas, tokens completos ni números de documento completos (ARC-06). |
 
+<a id="add4-elements"></a>
 #### 4.3.4.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
 En esta etapa se instancian los elementos de seguridad de PayID, se asignan sus responsabilidades y se definen sus interfaces.
@@ -2193,6 +2196,7 @@ Eventos de dominio publicados en Apache Kafka:
 | AccountLocked | MS Seguridad | MS Notificaciones, MS Auditoría |
 | ConsentUpdated | MS Compliance | MS Auditoría |
 
+<a id="add4-views"></a>
 #### 4.3.4.6. Sketch Views (C4 & UML) and Record Design Decisions
 
 Las vistas de esta iteración representan los elementos refinados y su interacción. Se recomienda incluir los siguientes diagramas:
@@ -2210,6 +2214,7 @@ Registro de decisiones de diseño:
 | DD-4.3 | RBAC con políticas por titular | Solo RBAC | El rol no basta: un padre solo debe ver los perfiles de su propia familia (ARC-01). |
 | DD-4.4 | Azure Key Vault | Guardar secretos en archivos de configuración | Evita exponer credenciales en el código fuente (ARC-05). |
 
+<a id="add4-review"></a>
 #### 4.3.4.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
 
 Al cierre de la Iteration 4, se analiza el diseño actual y se revisa el avance de los drivers seleccionados. Se utilizan tres estados: Diseñado, cuando existe una solución arquitectónica definida; Parcial, cuando falta completar o definir algún aspecto; y Validado, cuando existen pruebas o evidencias que demuestran su cumplimiento. Los drivers pasarán a Validado con las evidencias del capítulo V.
@@ -2223,6 +2228,7 @@ Al cierre de la Iteration 4, se analiza el diseño actual y se revisa el avance 
 
 ### 4.3.5. Iteration 5: Notificaciones, Alertas y Seguimiento de Trámites
 
+<a id="add5-backlog"></a>
 #### 4.3.5.1. Architectural Design Backlog 5
 
 En la quinta iteración se definió el Architectural Design Backlog enfocado en la comunicación con el usuario. Esta iteración refina los elementos que generan las alertas de vencimiento, informan los cambios de estado de los trámites de renovación, muestran el centro de notificaciones y supervisan el funcionamiento del sistema.
@@ -2239,6 +2245,7 @@ En la quinta iteración se definió el Architectural Design Backlog enfocado en 
 
 [Insertar captura de las tarjetas del Architectural Design Backlog 5 (Trello o Miro)]
 
+<a id="add5-goal"></a>
 #### 4.3.5.2. Establish Iteration Goal by Selecting Drivers
 
 El objetivo de la Iteration 5 es refinar el sistema de notificaciones de PayID, de modo que el usuario reciba a tiempo las alertas de vencimiento y los cambios de estado de sus trámites, pueda consultarlas en el centro de notificaciones y que una falla en el envío no afecte a los demás servicios.
@@ -2251,6 +2258,7 @@ Para esta iteración se seleccionaron los siguientes drivers arquitectónicos:
 | Funcionalidad | US4, US9, US10, US21 | Seguimiento de renovaciones, alertas y centro de notificaciones. |
 | Preocupación | ARC-04, ARC-08 | Tolerancia a fallas externas y observabilidad. |
 
+<a id="add5-refine"></a>
 #### 4.3.5.3. Choose One or More Elements of the System to Refine
 
 Para la Iteration 5 se seleccionaron los elementos que generan, envían y muestran las notificaciones, así como los que permiten supervisar el sistema.
@@ -2265,6 +2273,7 @@ Para la Iteration 5 se seleccionaron los elementos que generan, envían y muestr
 | 6 | Apache Kafka | Componente | QA-05 |
 | 7 | Plataforma de monitoreo | Componente | ARC-08 |
 
+<a id="add5-concepts"></a>
 #### 4.3.5.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
 
 A continuación, se presentan los conceptos de diseño seleccionados para responder a los drivers de esta iteración, agrupados por atributo de calidad.
@@ -2292,6 +2301,7 @@ A continuación, se presentan los conceptos de diseño seleccionados para respon
 | Registros y métricas centralizados (OpenTelemetry y Azure Monitor) | Todos los servicios envían sus registros, métricas y trazas a un mismo lugar para detectar errores y medir tiempos de respuesta (ARC-08). |
 | Alertas técnicas | El equipo recibe avisos cuando un servicio falla o supera los tiempos esperados. |
 
+<a id="add5-elements"></a>
 #### 4.3.5.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
 
 En esta etapa se instancian los elementos de notificación y monitoreo de PayID, se asignan sus responsabilidades y se definen sus interfaces.
@@ -2325,6 +2335,7 @@ Eventos de dominio publicados en Apache Kafka:
 | RenewalStatusChanged | MS Documentos | MS Notificaciones |
 | PaymentApproved | MS Pagos y Billetera | MS Notificaciones |
 
+<a id="add5-views"></a>
 #### 4.3.5.6. Sketch Views (C4 & UML) and Record Design Decisions
 
 Las vistas de esta iteración representan los elementos refinados y su interacción. Se recomienda incluir los siguientes diagramas:
@@ -2342,6 +2353,7 @@ Registro de decisiones de diseño:
 | DD-5.3 | Dead Letter Queue | Descartar las notificaciones fallidas | Permite revisar y reenviar los mensajes que no llegaron. |
 | DD-5.4 | OpenTelemetry con Azure Monitor | Registros separados por servicio | Centraliza la información para detectar errores rápido (ARC-08). |
 
+<a id="add5-review"></a>
 #### 4.3.5.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
 
 Al cierre de la Iteration 5, se analiza el diseño actual y se revisa el avance de los drivers seleccionados. Se utilizan tres estados: Diseñado, cuando existe una solución arquitectónica definida; Parcial, cuando falta completar o definir algún aspecto; y Validado, cuando existen pruebas o evidencias que demuestran su cumplimiento. Los drivers pasarán a Validado con las evidencias del capítulo V.
@@ -2355,8 +2367,10 @@ Al cierre de la Iteration 5, se analiza el diseño actual y se revisa el avance 
 
 Enlace: [Agregar enlace del tablero de la Iteration 5]
 
+<a id="chapter-5"></a>
 # CAPÍTULO V: Product Implementation, Validation & Deployment
 
+<a id="chapter-5-testing"></a>
 ## 5.1. Testing Suites & General Patterns
 
 En esta sección se describen las pruebas y los patrones aplicados en la implementación de PayID. Las pruebas permiten comprobar que cada microservicio cumple los criterios de aceptación de las historias de usuario y los escenarios de calidad definidos en el capítulo IV.
@@ -2432,6 +2446,7 @@ En esta sección se registran las refactorizaciones realizadas durante el desarr
 | 1 | PayID-Backend: módulo Authentication | Contexto de datos con el nombre heredado FinTrackDbContext y validaciones de registro dentro del handler. | Renombrado a PayIdDbContext con PayIdDbContextFactory; validación separada en RegisterUserValidator; abstracción IClock para el bloqueo por intentos (inyección de dependencias). | 72df77c (05/10/2026) |
 | 2 | PayID-Backend: configuración | Swagger disponible solo en Development y sin configuración de despliegue. | Configuración por entorno en Program.cs, render.yaml y Dockerfile ajustado; Swagger expuesto en el entorno desplegado. | 662d5e3 (03/11/2026) |
 
+<a id="chapter-5-configuration"></a>
 ## 5.2. Software Configuration Management
 
 En esta sección se describen las herramientas, convenciones y configuraciones que el equipo utiliza para desarrollar, versionar y desplegar PayID de forma ordenada.
@@ -2497,39 +2512,7 @@ El despliegue de PayID se organiza de la siguiente manera:
 | Base de datos | Azure Database for MySQL | Instancia gestionada con copias de seguridad automáticas. |
 | Aplicación móvil | Archivo APK de prueba | Generado con flutter build apk para las pruebas del equipo. |
 
-### 5.2.3. Source Code Style Guide & Conventions
-
-El código fuente del backend de PayID se organiza mediante módulos funcionales y convenciones de C# que facilitan su lectura, mantenimiento y extensión. Los módulos Authentication, Documents, Payments, Wallet, Notifications y Support agrupan los componentes según sus responsabilidades dentro de la aplicación.
-
-En varios módulos se utiliza una estructura de capas compuesta por Application, Domain, Infrastructure e Interfaces. Application contiene los casos de uso y objetos de transferencia; Domain agrupa las entidades y contratos del dominio; Infrastructure implementa la persistencia y los servicios técnicos; e Interfaces expone las operaciones HTTP.
-
-Las principales convenciones identificadas en el proyecto se presentan a continuación:
-
-| Elemento | Convención | Ejemplo del proyecto |
-|---|---|---|
-| Clases | PascalCase y nombres relacionados con su responsabilidad. | AuthController, DocumentRepository. |
-| Interfaces | Prefijo I seguido de un nombre en PascalCase. | IPasswordHasher, IPaymentRepository. |
-| Métodos | PascalCase. | GenerateToken, VerifyPassword. |
-| Parámetros y variables locales | camelCase. | userId, passwordHash. |
-| Campos privados | Prefijo _ y nombre en camelCase. | _context, _mediator. |
-| Propiedades | PascalCase. | UserId, CreatedAt, DocumentNumber. |
-| Comandos | Sufijo Command. | RegisterUserCommand, CreateDocumentCommand. |
-| Consultas | Sufijo Query. | LoginUserQuery, GetDocumentsByUserIdQuery. |
-| Manejadores de solicitudes | Sufijo Handler. | RegisterUserCommandHandler. |
-| Objetos de transferencia | Sufijo Dto. | UserDto, DocumentDto. |
-| Métodos asíncronos propios | Sufijo Async cuando corresponde. | AddPaymentAsync, GetByUserIdAsync. |
-
-Para las operaciones de entrada y salida se utiliza programación asíncrona mediante async y await. Asimismo, diversos handlers reciben un CancellationToken, que permite propagar la cancelación a las operaciones de persistencia que lo admiten.
-
-La inyección de dependencias se configura en Program.cs y permite proporcionar repositorios, servicios de seguridad y manejadores de solicitudes. Los controladores que utilizan MediatR delegan el procesamiento a los handlers, reduciendo la lógica contenida en la capa HTTP.
-
-Como parte de la uniformización del código, se establece la necesidad de mantener una única convención para los namespaces, la capitalización de carpetas y la ubicación de los controladores. Actualmente se observan diferencias como Features y features, así como controladores ubicados en API/Controllers y en Interfaces/REST/Controllers.
-
-También se requiere unificar progresivamente los identificadores técnicos que conservan el nombre FinTrackBack, considerando que el producto documentado es PayID. Los cambios en nombres de propiedades expuestas por la API deberán preservar la compatibilidad con sus consumidores.
-
-Para facilitar la aplicación de estas convenciones, se propone incorporar un archivo .editorconfig y verificar el formato durante la revisión del código. Los comentarios deberán explicar decisiones relevantes, mientras que los nombres de clases y métodos deberán comunicar claramente su propósito.
-
-### 5.2.1.6 Software Deployment Evidence for Sprint Review
+#### 5.2.4.1. Container Packaging and Deployment Evidence
 
 La versión del backend de PayID incluye los archivos necesarios para preparar su empaquetado como una aplicación ASP.NET Core ejecutable mediante contenedores. La principal evidencia corresponde al Dockerfile ubicado en la raíz del proyecto, que define una construcción multietapa.
 
@@ -2572,37 +2555,44 @@ La revisión del código permite acreditar la existencia de una configuración d
 
 Para completar la evidencia del Sprint Review deberán incorporarse una captura de la construcción exitosa, una captura del contenedor en funcionamiento y una solicitud HTTP que demuestre la disponibilidad del backend en el entorno de destino.
 
-### 5.2.1.7 Kanban Board
+### 5.2.5. Backend Code Structure and Conventions
 
-El tablero Kanban permite visualizar el avance de las tareas del sprint, identificar bloqueos y relacionar cada actividad con una historia de usuario. Para PayID se propone organizar el flujo en cinco columnas: To do, In progress, In review, Testing y Done.
+El código fuente del backend de PayID se organiza mediante módulos funcionales y convenciones de C# que facilitan su lectura, mantenimiento y extensión. Los módulos Authentication, Documents, Payments, Wallet, Notifications y Support agrupan los componentes según sus responsabilidades dentro de la aplicación.
 
-| Columna | Descripción | Condición para avanzar |
+En varios módulos se utiliza una estructura de capas compuesta por Application, Domain, Infrastructure e Interfaces. Application contiene los casos de uso y objetos de transferencia; Domain agrupa las entidades y contratos del dominio; Infrastructure implementa la persistencia y los servicios técnicos; e Interfaces expone las operaciones HTTP.
+
+Las principales convenciones identificadas en el proyecto se presentan a continuación:
+
+| Elemento | Convención | Ejemplo del proyecto |
 |---|---|---|
-| To do | Tareas definidas que todavía no se han iniciado. | Contar con responsable y criterio de aceptación. |
-| In progress | Tareas que se encuentran en desarrollo. | Disponer de una implementación lista para revisión. |
-| In review | Cambios pendientes de revisión técnica. | Resolver observaciones y obtener aprobación. |
-| Testing | Funcionalidades en proceso de validación. | Cumplir los escenarios de prueba y criterios de aceptación. |
-| Done | Tareas finalizadas y verificadas. | Conservar los enlaces a sus evidencias. |
+| Clases | PascalCase y nombres relacionados con su responsabilidad. | AuthController, DocumentRepository. |
+| Interfaces | Prefijo I seguido de un nombre en PascalCase. | IPasswordHasher, IPaymentRepository. |
+| Métodos | PascalCase. | GenerateToken, VerifyPassword. |
+| Parámetros y variables locales | camelCase. | userId, passwordHash. |
+| Campos privados | Prefijo _ y nombre en camelCase. | _context, _mediator. |
+| Propiedades | PascalCase. | UserId, CreatedAt, DocumentNumber. |
+| Comandos | Sufijo Command. | RegisterUserCommand, CreateDocumentCommand. |
+| Consultas | Sufijo Query. | LoginUserQuery, GetDocumentsByUserIdQuery. |
+| Manejadores de solicitudes | Sufijo Handler. | RegisterUserCommandHandler. |
+| Objetos de transferencia | Sufijo Dto. | UserDto, DocumentDto. |
+| Métodos asíncronos propios | Sufijo Async cuando corresponde. | AddPaymentAsync, GetByUserIdAsync. |
 
-Cada tarjeta deberá incluir identificador, historia de usuario relacionada, descripción, responsable y criterio de aceptación. También deberá incorporar los enlaces al código, las pruebas y las evidencias de ejecución correspondientes.
+Para las operaciones de entrada y salida se utiliza programación asíncrona mediante async y await. Asimismo, diversos handlers reciben un CancellationToken, que permite propagar la cancelación a las operaciones de persistencia que lo admiten.
 
-A partir del estado observado en el backend, se identifican los siguientes elementos que deben contrastarse con el tablero del equipo:
+La inyección de dependencias se configura en Program.cs y permite proporcionar repositorios, servicios de seguridad y manejadores de solicitudes. Los controladores que utilizan MediatR delegan el procesamiento a los handlers, reduciendo la lógica contenida en la capa HTTP.
 
-| Tarea | Relación con el proyecto | Situación identificada |
-|---|---|---|
-| Implementar registro por correo | US1 | Código presente; validación de ejecución pendiente. |
-| Completar registro mediante celular | US1 | No implementado en el contrato revisado. |
-| Implementar login con JWT | US16 | Código presente; pruebas pendientes de evidencia. |
-| Incorporar bloqueo tras cinco intentos fallidos | US22 | Funcionalidad pendiente. |
-| Proteger los recursos mediante autorización | Seguridad del backend | Trabajo correctivo pendiente. |
-| Implementar pruebas de registro y login | Validación del sprint | Suite automatizada no incluida. |
-| Validar construcción y ejecución del contenedor | Configuración de despliegue | Dockerfile presente; ejecución pendiente de evidencia. |
-| Documentar resultados del Sprint Review | Evidencias del sprint | Capturas y registros pendientes de incorporación. |
+Como parte de la uniformización del código, se establece la necesidad de mantener una única convención para los namespaces, la capitalización de carpetas y la ubicación de los controladores. Actualmente se observan diferencias como Features y features, así como controladores ubicados en API/Controllers y en Interfaces/REST/Controllers.
 
-## 5.3. MicroServices Implementation
+También se requiere unificar progresivamente los identificadores técnicos que conservan el nombre FinTrackBack, considerando que el producto documentado es PayID. Los cambios en nombres de propiedades expuestas por la API deberán preservar la compatibilidad con sus consumidores.
+
+Para facilitar la aplicación de estas convenciones, se propone incorporar un archivo .editorconfig y verificar el formato durante la revisión del código. Los comentarios deberán explicar decisiones relevantes, mientras que los nombres de clases y métodos deberán comunicar claramente su propósito.
+
+<a id="chapter-5-sprints"></a>
+## 5.3. Microservices Implementation
 
 ### 5.3.1. Sprint 1
 
+<a id="sprint1-backlog"></a>
 #### 5.3.1.1. Sprint Backlog 1
 
 Sprint Goal: Publicar la landing page de PayID y la base técnica del backend y de la app móvil, con el registro e inicio de sesión de usuarios funcionando.
@@ -2620,6 +2610,7 @@ Sprint Goal: Publicar la landing page de PayID y la base técnica del backend y 
 
 [Pendiente] Captura del Sprint Backlog 1 en Trello: no se encuentra en los repositorios ni en el documento.
 
+<a id="sprint1-development"></a>
 #### 5.3.1.2. Development Evidence for Sprint Review
 
 En esta sección se presentan los commits realizados durante el Sprint 1.
@@ -2635,6 +2626,7 @@ En esta sección se presentan los commits realizados durante el Sprint 1.
 
 Fuente: historial de Git de los repositorios de la organización (git log --all), consultado el 22/11/2026. Solo se incluyen commits de los cuatro integrantes.
 
+<a id="sprint1-testing"></a>
 #### 5.3.1.3. Testing Suite Evidence for Sprint Review
 
 En esta sección se presentan los commits de las pruebas desarrolladas durante el Sprint 1.
@@ -2645,12 +2637,14 @@ En esta sección se presentan los commits de las pruebas desarrolladas durante e
 
 El commit 72df77c incorpora tests/PayId.Tests: pruebas unitarias (LoginUserQueryHandlerTests, RegisterUserValidatorTests, UserLockoutTests) y escenarios BDD en Gherkin (US01_Registro.feature, US16_Autenticacion.feature, US22_InicioSesion.feature). [Pendiente] Captura de la ejecución de dotnet test.
 
+<a id="sprint1-execution"></a>
 #### 5.3.1.4. Execution Evidence for Sprint Review
 
 En esta sección se presentan capturas de las funcionalidades implementadas en el Sprint 1 en ejecución.
 
 [Pendiente] Capturas de ejecución del Sprint 1: no se encuentran en los repositorios. Las funcionalidades a evidenciar son la landing page (6d89002) y la API de cuentas (72df77c).
 
+<a id="sprint1-api-docs"></a>
 #### 5.3.1.5. Microservices Documentation Evidence for Sprint Review
 
 En esta sección se documentan los endpoints implementados en el Sprint 1 mediante Swagger (OpenAPI).
@@ -2680,12 +2674,14 @@ En esta sección se documentan los endpoints implementados en el Sprint 1 median
 
 Endpoints presentes en PayID-Backend al cierre del Sprint 1 (commit 3717a80 en main). Todos los módulos se ejecutan en un solo servicio ASP.NET Core; todavía no están separados en microservicios. [Pendiente] Captura de Swagger UI.
 
+<a id="sprint1-deployment"></a>
 #### 5.3.1.6. Software Deployment Evidence for Sprint Review
 
 En esta sección se presentan las evidencias del despliegue realizado en el Sprint 1.
 
 [Pendiente] En el Sprint 1 no hay evidencia de despliegue del backend en la nube. La landing page incluye vercel.json (6d89002); la URL pública no figura en el repositorio.
 
+<a id="sprint1-collaboration"></a>
 #### 5.3.1.7. Team Collaboration Insights during Sprint
 
 En esta sección se muestran las contribuciones de cada integrante en los repositorios durante el Sprint 1.
@@ -2699,6 +2695,7 @@ En esta sección se muestran las contribuciones de cada integrante en los reposi
 
 Fuente: historial de Git de los repositorios de la organización (git log --all), consultado el 22/11/2026. Solo se incluyen commits de los cuatro integrantes.
 
+<a id="sprint1-kanban"></a>
 #### 5.3.1.8. Kanban Board
 
 En esta sección se presenta el tablero Kanban con el estado final de las tareas del Sprint 1.
@@ -2707,6 +2704,7 @@ En esta sección se presenta el tablero Kanban con el estado final de las tareas
 
 ### 5.3.2. Sprint 2
 
+<a id="sprint2-backlog"></a>
 #### 5.3.2.1. Sprint Backlog 2
 
 Sprint Goal: Implementar los microservicios de Pagos y Billetera y de Documentos de PayID, exponer sus endpoints mediante el API Gateway y habilitar el primer despliegue del backend en la nube, de modo que el usuario pueda recargar saldo, consultar sus documentos y verificar su identidad a traves de la aplicacion movil y la web.
@@ -2734,6 +2732,7 @@ Link de Trello: [Spring Backlog 2 - Trello](https://trello.com/invite/b/6ae922c2
 
 ![Imagen](assets/report/cap-5/img-3596f725b0.png)
 
+<a id="sprint2-development"></a>
 #### 5.3.2.2. Development Evidence for Sprint Review
 
 A continuacion se presentan los commits realizados durante el Sprint 2 en los repositorios del proyecto PayID. Segun el cronograma del curso, el Sprint 2 se cierra con el Avance 3 (semana 10), por lo que abarca del 12/10/2026 al 01/11/2026.
@@ -2756,7 +2755,7 @@ A continuacion se presentan los commits realizados durante el Sprint 2 en los re
 | PayID-Mobile-App | main | 0d05e3f | docs: add comprehensive README with setup, architecture and API integration guide | 30/10/2026 | Taquiri Calderón, Jhunior |
 | PayID-Mobile-App | main | bd3a36f | docs: add comprehensive README with setup, architecture and API integration guide | 30/10/2026 | Taquiri Calderón, Jhunior |
 
-Nota de verificación (v3.0): la tabla anterior listaba commits con identificadores que no existen en los repositorios (por ejemplo, a1b2c3d4 y e5f6a7b8, repetidos). Se reemplazó por el historial real. En este periodo solo hay commits de Taquiri Calderón en PayID-Mobile-App; las imágenes siguientes deben actualizarse con capturas reales.
+Nota de consolidación: el PDF del equipo documenta más trabajo para este sprint que el visible en el historial Git consultado. Se conserva aquí el avance reportado por el equipo; para cerrar la trazabilidad, adjuntar los commits o enlaces a los repositorios y actualizar las capturas si corresponden.
 
 Fuente: historial de Git de los repositorios de la organización (git log --all), consultado el 22/11/2026. Solo se incluyen commits de los cuatro integrantes.
 
@@ -2772,6 +2771,7 @@ Imagen de Web Application PayID – Sprint Backlog 2
 
 ![Imagen](assets/report/cap-5/img-bfa4a82ad1.png)
 
+<a id="sprint2-testing"></a>
 #### 5.3.2.3. Testing Suite Evidence for Sprint Review
 
 A continuacion se presentan los commits de pruebas realizados durante el Sprint 2. Se aplicaron pruebas unitarias con xUnit, pruebas de integracion con Testcontainers y escenarios de aceptacion con Reqnroll.
@@ -2790,10 +2790,11 @@ Resumen de resultados de la suite de pruebas del Sprint 2:
 | Aceptacion | Reqnroll (Gherkin) | 12 | 12 | 0 |
 | Total |  | 64 | 64 | 0 |
 
-Nota de verificación (v3.0): los totales de esta tabla no se pudieron comprobar. PayID-Backend contiene 3 clases de prueba unitaria y 3 archivos .feature (registro, autenticación e inicio de sesión), y PayID-Mobile-App contiene test/widget_test.dart (e8213ef). No hay pruebas con Testcontainers en los repositorios.
+Nota de consolidación: se conservan los resultados de pruebas reportados en el PDF del equipo. Adjuntar el reporte de ejecución de dotnet test, los resultados de integración y la evidencia de aceptación para respaldar los totales indicados.
 
 [Pendiente] Insertar captura de la terminal con el resultado de "dotnet test".
 
+<a id="sprint2-execution"></a>
 #### 5.3.2.4. Execution Evidence for Sprint Review
 
 Durante el Sprint 2 se implementaron y ejecutaron exitosamente las siguientes funcionalidades en los distintos componentes de PayID:
@@ -2811,11 +2812,12 @@ Durante el Sprint 2 se implementaron y ejecutaron exitosamente las siguientes fu
 
 [Pendiente] Insertar capturas de Postman con los resultados de los endpoints, pantallas Flutter de Billetera y Documentos, y la vista web del historial de transacciones.
 
+<a id="sprint2-api-docs"></a>
 #### 5.3.2.5. Microservices Documentation Evidence for Sprint Review
 
 A continuacion se documentan todos los endpoints implementados en el Sprint 2, agrupados por microservicio y accesibles a traves del API Gateway en el puerto 8080.
 
-Nota de verificación (v3.0): las rutas /api/v1/... de esta sección no existen en PayID-Backend. Las rutas reales del servicio son las de las secciones 5.3.1.5 y 5.3.3.5 (por ejemplo, POST /api/Wallet/transport-cards/{id}/recharge).
+Nota de consolidación: se conservan los endpoints documentados en el PDF del equipo. Adjuntar la versión de Swagger o del repositorio desplegado que corresponda a este Sprint para que las rutas y respuestas queden trazables.
 
 MS Pagos y Billetera  (/api/v1/wallet)
 
@@ -2845,11 +2847,12 @@ MS Identidad - nuevos endpoints del Sprint 2  (/api/v1/users)
 
 [Pendiente] Insertar captura de Swagger UI (http://localhost:8080/swagger) con todos los endpoints del Sprint 2 visibles.[http://localhost:8080/swagger](http://localhost:8080/swagger)
 
+<a id="sprint2-deployment"></a>
 #### 5.3.2.6. Software Deployment Evidence for Sprint Review
 
 En el Sprint 2 se completo el pipeline de CI/CD y se realizo el primer despliegue del backend de PayID en la nube mediante Azure Kubernetes Service.
 
-Nota de verificación (v3.0): en los repositorios no hay manifiestos de Kubernetes, workflows de despliegue a AKS ni configuración de Azure Key Vault. El despliegue verificable es: backend en Render (render.yaml, 662d5e3, 03/11/2026), aplicación web en GitHub Pages (6b88793, 02/11/2026) y APK v1.0.0 en GitHub Releases (07/11/2026).
+Nota de consolidación: el PDF del equipo reporta el despliegue de Sprint 2 en Azure AKS. El historial posterior también registra despliegues en Render y GitHub Pages; documentar si hubo una migración entre entornos y adjuntar las capturas de AKS que el PDF solicita.
 
 | Componente | Plataforma | Configuracion | Estado en Sprint 2 |
 |---|---|---|---|
@@ -2877,6 +2880,7 @@ Parametros de entorno configurados en el despliegue del Sprint 2:
 
 [Pendiente] Insertar (1) captura del pipeline de GitHub Actions del Sprint 2 con todos los pasos exitosos, (2) captura de los pods en AKS con estado Running, (3) captura de Swagger accesible en la URL de Azure, (4) captura del APK en GitHub Releases.
 
+<a id="sprint2-collaboration"></a>
 #### 5.3.2.7. Team Collaboration Insights During Sprint
 
 A continuacion se presenta el resumen de contribuciones de cada integrante en los repositorios de PayID durante el Sprint 2 (12/10/2026 - 01/11/2026), calculado a partir del historial de Git.
@@ -2897,6 +2901,7 @@ Distribucion de commits por repositorio durante el Sprint 2:
 
 [Pendiente] Insertar (1) captura de GitHub Insights > Contributors de cada repositorio para el periodo 12/10 - 01/11/2026, (2) captura del grafico de contribuciones del equipo.
 
+<a id="sprint2-kanban"></a>
 #### 5.3.2.8. Kanban Board
 
 Entregable clave del Avance 3 - Semana 10
@@ -2949,10 +2954,12 @@ Done: tarea completada, probada y con evidencias de ejecucion registradas.
 
 ### 5.3.3. Sprint 3
 
+<a id="sprint3-backlog"></a>
 #### 5.3.3.1. Sprint Backlog 3
 
 [Pendiente] El Sprint Backlog 3 (tareas, estimaciones y responsables) debe tomarse del tablero del equipo; no está en los repositorios ni en el documento. Periodo según el cronograma: 02/11/2026 al 15/11/2026 (Avance 4, semana 12).
 
+<a id="sprint3-development"></a>
 #### 5.3.3.2. Development Evidence for Sprint Review
 
 A continuación se presentan los commits realizados durante el Sprint 3.
@@ -3005,10 +3012,12 @@ A continuación se presentan los commits realizados durante el Sprint 3.
 
 Fuente: historial de Git de los repositorios de la organización (git log --all), consultado el 22/11/2026. Solo se incluyen commits de los cuatro integrantes.
 
+<a id="sprint3-testing"></a>
 #### 5.3.3.3. Testing Suite Evidence for Sprint Review
 
 En el Sprint 3 no se registraron commits que agreguen o modifiquen pruebas en los repositorios de la organización. [Pendiente] Pruebas unitarias y BDD de los módulos de documentos, pagos, billetera y notificaciones.
 
+<a id="sprint3-execution"></a>
 #### 5.3.3.4. Execution Evidence for Sprint Review
 
 Funcionalidades publicadas durante el Sprint 3 (verificables en los repositorios):
@@ -3021,6 +3030,7 @@ Funcionalidades publicadas durante el Sprint 3 (verificables en los repositorios
 
 [Pendiente] Capturas de las funcionalidades en ejecución.
 
+<a id="sprint3-api-docs"></a>
 #### 5.3.3.5. Microservices Documentation Evidence for Sprint Review
 
 Al cierre del Sprint 3, PayID-Backend (main) expone, además de los endpoints de la sección 5.3.1.5, los siguientes. Se agregaron en el commit 6f3e169 (05/11/2026), cuyo autor registrado es "Codex"; su autoría dentro del equipo está pendiente de confirmar.
@@ -3035,6 +3045,7 @@ Al cierre del Sprint 3, PayID-Backend (main) expone, además de los endpoints de
 
 La documentación OpenAPI se publica con Swagger en https://payid-backend-n573.onrender.com/swagger/index.html. [Pendiente] Captura de Swagger UI.
 
+<a id="sprint3-deployment"></a>
 #### 5.3.3.6. Software Deployment Evidence for Sprint Review
 
 | Componente | Plataforma | Configuración | Commit |
@@ -3045,6 +3056,7 @@ La documentación OpenAPI se publica con Swagger en https://payid-backend-n573.o
 
 Render es una plataforma PaaS y no reemplaza el despliegue en AWS, Microsoft Azure o Google Cloud que exige el TF1 (ver sección 5.4). [Pendiente] Capturas de los despliegues.
 
+<a id="sprint3-collaboration"></a>
 #### 5.3.3.7. Team Collaboration Insights during Sprint
 
 | Integrante | Repositorios (commits) | Total | Observación |
@@ -3056,36 +3068,44 @@ Render es una plataforma PaaS y no reemplaza el despliegue en AWS, Microsoft Azu
 
 Fuente: historial de Git de los repositorios de la organización (git log --all), consultado el 22/11/2026. Solo se incluyen commits de los cuatro integrantes.
 
+<a id="sprint3-kanban"></a>
 #### 5.3.3.8. Kanban Board
 
 [Pendiente] Captura del tablero Kanban del Sprint 3 (entregable del Avance 4, semana 12).
 
 ### 5.3.4. Sprint 4
 
+<a id="sprint4-backlog"></a>
 #### 5.3.4.1. Sprint Backlog 4
 
 [Pendiente] Sprint en curso; se completa para el TF1 (semana 15).
 
+<a id="sprint4-development"></a>
 #### 5.3.4.2. Development Evidence for Sprint Review
 
 [Pendiente] Sprint en curso (16/11/2026 al 06/12/2026). Al 22/11/2026 no hay commits de los integrantes en este periodo.
 
+<a id="sprint4-testing"></a>
 #### 5.3.4.3. Testing Suite Evidence for Sprint Review
 
 [Pendiente] Sprint en curso; se completa para el TF1 (semana 15).
 
+<a id="sprint4-execution"></a>
 #### 5.3.4.4. Execution Evidence for Sprint Review
 
 [Pendiente] Sprint en curso; se completa para el TF1 (semana 15).
 
+<a id="sprint4-api-docs"></a>
 #### 5.3.4.5. Microservices Documentation Evidence for Sprint Review
 
 [Pendiente] Sprint en curso; se completa para el TF1 (semana 15).
 
+<a id="sprint4-deployment"></a>
 #### 5.3.4.6. Software Deployment Evidence for Sprint Review
 
 [Pendiente] Sprint en curso; se completa para el TF1 (semana 15).
 
+<a id="sprint4-collaboration"></a>
 #### 5.3.4.7. Team Collaboration Insights during Sprint
 
 | Integrante | Repositorios (commits) | Total | Observación |
@@ -3095,10 +3115,12 @@ Fuente: historial de Git de los repositorios de la organización (git log --all)
 | Taquiri Calderón, Jhunior Giussepe | — | 0 | Sin commits registrados en los repositorios de la organización en este sprint. |
 | Tasayco Osorio, Raul Hiroshi | — | 0 | Sin commits registrados en los repositorios de la organización en este sprint. |
 
+<a id="sprint4-kanban"></a>
 #### 5.3.4.8. Kanban Board
 
 [Pendiente] Sprint en curso; se completa para el TF1 (semana 15).
 
+<a id="chapter-5-cloud"></a>
 ## 5.4. Microservices Deployment
 
 ### 5.4.1. Cloud Architecture Diagram
@@ -3109,6 +3131,7 @@ Fuente: historial de Git de los repositorios de la organización (git log --all)
 
 [Pendiente] Despliegue en AWS, Microsoft Azure o Google Cloud. Al cierre de este informe el backend está desplegado en Render, la aplicación web en GitHub Pages y la app móvil se distribuye como APK. Para el TF1 falta desplegar los microservicios en un proveedor cloud y usar sus servicios.
 
+<a id="conclusiones"></a>
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -3129,6 +3152,7 @@ En esta sección se indican las herramientas de inteligencia artificial que apar
 | Agentes con skills de Supabase | PayID-Frontend-Web-Application | Carpeta .agents/skills con guías de Supabase. | [Pendiente] El equipo debe confirmar su uso. |
 | Claude Code (Anthropic) | Informe, versión 3.0 | Consolidación del Student Outcome SO3, tablas de commits, secciones 5.3.3 a 5.4 y anexos B a F. | Cada dato se contrastó con el historial de Git de la organización; lo que no tiene evidencia quedó marcado como pendiente. El equipo debe revisar el informe antes de la entrega. |
 
+<a id="referencias"></a>
 # Referencias bibliográficas
 
 Association for Computing Machinery. (2018). ACM code of ethics and professional conduct. https://www.acm.org/code-of-ethics
@@ -3151,6 +3175,7 @@ Newman, S. (2021). Building microservices (2nd ed.). O'Reilly Media.
 
 Richardson, C. (2018). Microservices patterns. Manning Publications.
 
+<a id="anexos"></a>
 # Anexos
 
 ## Anexo B: Final Individual Member Performance Report
@@ -3487,6 +3512,7 @@ Commits de los cuatro integrantes en todos los repositorios de la organización,
 | PayID-Mobile-App | main | 3aac085 | feat: add CI/CD GitHub Actions workflow to build APK and update README with download links | 07/11/2026 | Taquiri Calderón, Jhunior |
 | PayID-Mobile-App | main | 42a6ddb | chore: ignore build artifacts and add v1.0.0 release link to readme | 07/11/2026 | Taquiri Calderón, Jhunior |
 
+<a id="links"></a>
 # Links
 
 - Organización de GitHub: https://github.com/Fundamentos-de-Arquitectura-PayId
@@ -3500,3 +3526,4 @@ Commits de los cuatro integrantes en todos los repositorios de la organización,
 - Backend publicado (Swagger): https://payid-backend-n573.onrender.com/swagger/index.html
 - Entrevistas: https://youtu.be/gGd9kwKDJM4, https://www.youtube.com/watch?v=LSnkTj_Xj1Q, https://youtu.be/je7XNby1e4k y https://youtu.be/Dh1ir3HOLUQ (más una grabación en SharePoint de la UPC)
 - Tableros Trello de la Iteration 1 y del Sprint 2: enlaces en las secciones 4.3.1.7 y 5.3.2.1
+
