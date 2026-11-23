@@ -590,7 +590,7 @@ Done: tarea completada, probada y con evidencias de ejecucion registradas.
 <a id="sprint3-backlog"></a>
 #### 5.3.3.1. Sprint Backlog 3
 
-[Pendiente] El Sprint Backlog 3 (tareas, estimaciones y responsables) debe tomarse del tablero del equipo; no está en los repositorios ni en el documento. Periodo según el cronograma: 02/11/2026 al 15/11/2026 (Avance 4, semana 12).
+El Sprint Backlog 3, con sus tareas y estados, está registrado en el tablero [PayID — Sprint 3 — Avance 4](https://trello.com/invite/b/6b0457d63e8658629f3e819e/ATTIe461208fa966ff45422c6186fe455b13BF552CCA/payid-sprint-3-avance-4). Periodo según el cronograma: 02/11/2026 al 15/11/2026 (Avance 4, semana 12). La captura del tablero se incluye en la sección 5.3.3.8.
 
 <a id="sprint3-development"></a>
 #### 5.3.3.2. Development Evidence for Sprint Review
@@ -704,7 +704,11 @@ Fuente: historial de Git de los repositorios de la organización (git log --all)
 <a id="sprint3-kanban"></a>
 #### 5.3.3.8. Kanban Board
 
-[Pendiente] Captura del tablero Kanban del Sprint 3 (entregable del Avance 4, semana 12).
+Tablero Trello: [PayID — Sprint 3 — Avance 4](https://trello.com/invite/b/6b0457d63e8658629f3e819e/ATTIe461208fa966ff45422c6186fe455b13BF552CCA/payid-sprint-3-avance-4).
+
+![Tablero Kanban del Sprint 3 — Avance 4](../../assets/report/cap-5/sprint-3-backlog.png)
+
+*Figura: tablero compartido por el equipo. La captura muestra 7 tarjetas en To do, 0 en In Progress, 8 en In Review, 0 en Testing y 6 en Done (21 tarjetas en total).*
 
 ### 5.3.4. Sprint 4
 
