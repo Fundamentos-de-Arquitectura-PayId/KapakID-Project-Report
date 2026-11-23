@@ -28,36 +28,51 @@
 
 ## Registro de versiones del informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|:---:|:---:|:---:|:---|
-| 1.0 | 13/09/2026 | Equipo PayID | Informe inicial, registros de entrevistas y diagramas C4 de contexto, contenedores y componentes. |
-| 2.0 | Pendiente | Mallqui Vilca, Dhilsen Armil | ADD Iteration 1: backlog arquitectónico, objetivo, conceptos de diseño e instanciación de elementos. |
-| 3.0 | 22/11/2026 | Taquiri Calderón, Jhunior Giussepe | Actualización de Student Outcome, evidencias de sprints, despliegue, anexos y referencias del informe. |
-| 3.1 | 22/11/2026 | Consolidación editorial | Reorganización de la estructura y conservación de los avances reportados por el equipo. |
-| 3.2 | 22/11/2026 | Consolidación editorial | Portada centrada, registro de versiones simplificado, sección GitFlow e índice completo en el README raíz; Student Outcome y capítulos quedaron en archivos separados. |
+<table align="center" width="95%">
+  <thead>
+    <tr><th>Versión</th><th>Fecha</th><th>Autor</th><th>Descripción de modificación</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">1.0</td><td align="center">13/09/2026</td><td align="center">Equipo PayID</td><td>Informe inicial, registros de entrevistas y diagramas C4 de contexto, contenedores y componentes.</td></tr>
+    <tr><td align="center">2.0</td><td align="center">Pendiente</td><td align="center">Mallqui Vilca, Dhilsen Armil</td><td>ADD Iteration 1: backlog arquitectónico, objetivo, conceptos de diseño e instanciación de elementos.</td></tr>
+    <tr><td align="center">3.0</td><td align="center">22/11/2026</td><td align="center">Taquiri Calderón, Jhunior Giussepe</td><td>Actualización de Student Outcome, evidencias de sprints, despliegue, anexos y referencias del informe.</td></tr>
+    <tr><td align="center">3.1</td><td align="center">22/11/2026</td><td align="center">Consolidación editorial</td><td>Reorganización de la estructura y conservación de los avances reportados por el equipo.</td></tr>
+    <tr><td align="center">3.2</td><td align="center">22/11/2026</td><td align="center">Consolidación editorial</td><td>Portada centrada, registro de versiones simplificado, sección GitFlow e índice completo en el README raíz; Student Outcome y capítulos quedaron en archivos separados.</td></tr>
+  </tbody>
+</table>
 
 ## Project Report Collaboration Insights
 
 Commits de los integrantes en este repositorio (historial de Git al 22/11/2026):
 
-| Integrante | Usuario / autor de Git | Commits en este repositorio |
-|:---:|:---:|:---:|
-| Mallqui Vilca, Dhilsen Armil | DhilsenDevs (Dhilsen18) | 7 (05/09/2026) |
-| Tasayco Osorio, Raul Hiroshi | Dexter | 2 (12/09/2026) |
-| Taquiri Calderón, Jhunior Giussepe | GiussepeTC0410 | Versión 3.0 del informe (22/11/2026) |
-| Mora Blas, Diego Alonzo | — | 0 |
+<table align="center" width="85%">
+  <thead>
+    <tr><th>Integrante</th><th>Usuario / autor de Git</th><th>Commits en este repositorio</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">Mallqui Vilca, Dhilsen Armil</td><td align="center">DhilsenDevs (Dhilsen18)</td><td align="center">7 (05/09/2026)</td></tr>
+    <tr><td align="center">Tasayco Osorio, Raul Hiroshi</td><td align="center">Dexter</td><td align="center">2 (12/09/2026)</td></tr>
+    <tr><td align="center">Taquiri Calderón, Jhunior Giussepe</td><td align="center">GiussepeTC0410</td><td align="center">Versión 3.0 del informe (22/11/2026)</td></tr>
+    <tr><td align="center">Mora Blas, Diego Alonzo</td><td align="center">—</td><td align="center">0</td></tr>
+  </tbody>
+</table>
 
 El registro completo de commits de los integrantes en todos los repositorios está en el [Anexo F](capitulos/anexos/README.md#anexo-f-registro-completo-de-commits-de-los-integrantes).
 
 ## Repositorios del proyecto
 
-| Repositorio | Contenido |
-|---|---|
-| [PayID-Landing-Page](https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Landing-Page) | Landing page |
-| [PayID-Frontend-Web-Application](https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Frontend-Web-Application) | Aplicación web (Vue) |
-| [PayID-Mobile-App](https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Mobile-App) | Aplicación móvil (Flutter) |
-| PayID-Backend (privado) | Backend ASP.NET Core |
-| [StructurizrCodePayID](https://github.com/Fundamentos-de-Arquitectura-PayId/StructurizrCodePayID) | Diagramas C4 |
+<table align="center" width="65%">
+  <thead>
+    <tr><th>Repositorio</th><th>Contenido</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Landing-Page">PayID-Landing-Page</a></td><td>Landing page</td></tr>
+    <tr><td><a href="https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Frontend-Web-Application">PayID-Frontend-Web-Application</a></td><td>Aplicación web (Vue)</td></tr>
+    <tr><td><a href="https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Mobile-App">PayID-Mobile-App</a></td><td>Aplicación móvil (Flutter)</td></tr>
+    <tr><td>PayID-Backend (privado)</td><td>Backend ASP.NET Core</td></tr>
+    <tr><td><a href="https://github.com/Fundamentos-de-Arquitectura-PayId/StructurizrCodePayID">StructurizrCodePayID</a></td><td>Diagramas C4</td></tr>
+  </tbody>
+</table>
 
 ### Ramas del proyecto (GitFlow)
 
