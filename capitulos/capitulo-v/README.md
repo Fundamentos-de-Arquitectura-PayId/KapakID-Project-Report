@@ -730,7 +730,29 @@ Tablero Trello: [PayID — Sprint 3 — Avance 4](https://trello.com/invite/b/6b
 <a id="sprint4-execution"></a>
 #### 5.3.4.4. Execution Evidence for Sprint Review
 
-[Pendiente] Sprint en curso; se completa para el TF1 (semana 15).
+Se verificó el estado accesible de los componentes publicados de PayID el 23/11/2026. Estas capturas documentan la ejecución/despliegue disponible al momento de la revisión; no acreditan por sí solas cambios implementados durante el Sprint 4, cuyo desarrollo continúa en curso.
+
+| Componente | Evidencia observada | Captura | Acceso publicado |
+|---|---|---|---|
+| Backend PayID | Swagger UI cargó y mostró los grupos de endpoints REST (Auth, Documents, FamilyMembers y Notifications, entre otros). La captura acredita que la documentación de la API está accesible; no registra el envío de solicitudes a los endpoints. | [Swagger del backend](../../assets/report/cap-5/sprint-4-backend-swagger.jpg) | [Abrir Swagger](https://payid-backend-n573.onrender.com/swagger/index.html) |
+| Aplicación web | Se cargó la pantalla de inicio de sesión de PayID en producción. No se enviaron credenciales ni se ingresó a una cuenta. | [Inicio de sesión web](../../assets/report/cap-5/sprint-4-web-app.jpg) | [Abrir aplicación web](https://fundamentos-de-arquitectura-payid.github.io/PayID-Frontend-Web-Application/) |
+| Aplicación móvil | Se verificó en GitHub Releases la publicación `v1.0.0` y la disponibilidad del archivo `App-PayID.apk` (56.3 MB). Esta evidencia confirma que el APK está publicado para descarga; no corresponde a una captura de la aplicación ejecutándose en un teléfono o emulador. | [Publicación móvil v1.0.0](../../assets/report/cap-5/sprint-4-mobile-release.jpg) | [Abrir release](https://github.com/Fundamentos-de-Arquitectura-PayId/PayID-Mobile-App/releases/tag/v1.0.0) |
+
+**Capturas de ejecución y publicación:**
+
+**Backend — Swagger UI**
+
+![Captura de Swagger UI del backend PayID desplegado](../../assets/report/cap-5/sprint-4-backend-swagger.jpg)
+
+**Aplicación web — pantalla de inicio de sesión**
+
+![Captura de la pantalla de inicio de sesión web de PayID](../../assets/report/cap-5/sprint-4-web-app.jpg)
+
+**Aplicación móvil — release del APK en GitHub**
+
+![Captura de la publicación v1.0.0 de PayID Mobile en GitHub Releases](../../assets/report/cap-5/sprint-4-mobile-release.jpg)
+
+*Alcance de la evidencia: estado público de los despliegues consultado el 23/11/2026. La ejecución de flujos autenticados y la captura de la app móvil en un dispositivo quedan pendientes. La relación de cambios propios del Sprint 4 se documentará en 5.3.4.2 cuando existan commits del sprint.*
 
 <a id="sprint4-api-docs"></a>
 #### 5.3.4.5. Microservices Documentation Evidence for Sprint Review
