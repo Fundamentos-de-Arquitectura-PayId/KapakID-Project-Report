@@ -2952,6 +2952,8 @@ Done: tarea completada, probada y con evidencias de ejecucion registradas.
 
 [Pendiente] Insertar captura del tablero Kanban del Sprint 2 en Jira o Trello mostrando las columnas con las 18 tarjetas T2-01 a T2-18 y sus estados finales.
 
+> **Nota de continuidad:** el PDF de avances del equipo termina en este resumen del Sprint 2. Las secciones siguientes se añadieron al README para completar la estructura solicitada por la rúbrica TF1 y registrar la evidencia disponible en el repositorio al 22/11/2026. Los elementos que aún requieren información o capturas están marcados como pendientes.
+
 ### 5.3.3. Sprint 3
 
 <a id="sprint3-backlog"></a>
