@@ -38,6 +38,7 @@
     <tr><td align="center">3.0</td><td align="center">22/11/2026</td><td align="center">Taquiri Calderón, Jhunior Giussepe</td><td>Actualización de Student Outcome, evidencias de sprints, despliegue, anexos y referencias del informe.</td></tr>
     <tr><td align="center">3.1</td><td align="center">22/11/2026</td><td align="center">Consolidación editorial</td><td>Reorganización de la estructura y conservación de los avances reportados por el equipo.</td></tr>
     <tr><td align="center">3.2</td><td align="center">22/11/2026</td><td align="center">Consolidación editorial</td><td>Portada centrada, registro de versiones simplificado, sección GitFlow e índice completo en el README raíz; Student Outcome y capítulos quedaron en archivos separados.</td></tr>
+    <tr><td align="center">3.3</td><td align="center">22/11/2026</td><td align="center">Taquiri Calderón, Jhunior Giussepe</td><td>Cuadro del Student Outcome rehecho con el formato del Anexo A de la guía: una fila por criterio específico (3.c1 y 3.c2), acciones de cada integrante por entrega dentro de la celda y conclusiones grupales acumulativas.</td></tr>
   </tbody>
 </table>
 
