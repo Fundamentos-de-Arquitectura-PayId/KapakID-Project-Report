@@ -179,10 +179,10 @@ Convertirnos en un ecosistema digital referente en Latinoamérica para la gesti�
 
 | Foto | Alumno | Descripción |
 |---|---|---|
-| ![Imagen](../../assets/report/cap-1/img-6947c47d45.png) | Raul Hiroshi Tasayco Osorio | Soy un estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente me encuentro cursando el 7mo ciclo de la carrera.    A lo largo del tiempo que me encuentro en la carrera pude aprender diferentes tecnologías, tanto lenguajes de programación, buenas prácticas de desarrollo, estructuras de datos, finalmente Frameworks como mi Angular en el cual me desempeño en el Frontend. Me considero una persona responsable, listo para trabajar en equipo brindando mi apoyo y con un fuerte compromiso con todos mis deberes.    Mis expectativas para el curso de Aplicaciones Móviles son muy altas, puesto que es un curso en el cual aprenderé diferentes habilidades tanto frontend como backend 📱 |
-| ![Imagen](../../assets/report/cap-1/img-54345246bd.png) | Jhunior Giussepe Taquiri Calderon | Soy estudiante del séptimo ciclo de Ingeniería de Software en la UPC, con una formación orientada al desarrollo de software y al uso de diversas tecnologías. Tengo experiencia en C++, Python, Java y SQL, además de conocimientos en frameworks frontend como Angular, Vue y React, y tecnologías backend como .NET y Spring Boot. Asimismo, cuento con experiencia en el desarrollo de aplicaciones móviles utilizando Dart, Flutter y Swift, fortaleciendo mis habilidades en diferentes áreas del desarrollo de software.<br>Me considero una persona responsable, organizada y comprometida, con facilidad para trabajar en equipo y con interés en seguir aprendiendo para fortalecer mis conocimientos y perfil profesional.<br>Mis expectativas para el curso de Fundamentos de Arquitectura de Software son comprender cómo se diseñan y estructuran los sistemas de software, conocer los principales estilos y patrones arquitectónicos y aprender a tomar decisiones de diseño considerando atributos de calidad como seguridad, disponibilidad, performance, modificabilidad y usabilidad. Espero que el curso me permita fortalecer mis capacidades para diseñar y desarrollar soluciones de software escalables y de calidad. |
-| ![Imagen](../../assets/report/cap-1/img-52e2a187c9.png) | Diego<br>Alonzo<br>Mora<br>Blas | Soy estudiante del octavo ciclo de Ingeniería de Software en la UPC. Tengo experiencia trabajando con TypeScript, Express y Prisma en el desarrollo backend, además de conocimientos en bases de datos SQL. También he trabajado con Spring Boot y .NET aplicando patrones de programación orientada a objetos.<br>Me considero una persona responsable y organizada, con facilidad para trabajar en equipo y muchas ganas de seguir aprendiendo.<br>Para el curso de Fundamentos de Arquitectura de Software espero aprender a diseñar y estructurar sistemas de software, conocer los principales estilos y patrones arquitectónicos, y tomar decisiones de diseño considerando atributos de calidad como seguridad, disponibilidad y performance. Espero aplicar estos conocimientos en el proyecto del curso y fortalecer mis capacidades para diseñar soluciones escalables. |
-| ![Imagen](../../assets/report/cap-1/img-2e572be6fc.jpg) | Dhilsen Armil Mallqui Vilca | Soy estudiante del séptimo ciclo de Ingeniería de Software en la UPC con experiencia como Full Stack Developer. Manejo tecnologías backend (Java, Python, .NET) y frontend (React, Angular, Vue), además de bases de datos.<br>Me considero responsable, organizado y con gran facilidad para trabajar en equipo.<br>Para el curso de Fundamentos de Arquitectura de Software, espero aprender a diseñar sistemas escalables, dominar patrones arquitectónicos y evaluar atributos de calidad como seguridad, disponibilidad y performance. |
+| ![Imagen](assets/report/cap-1/img-6947c47d45.png) | Raul Hiroshi Tasayco Osorio | Soy un estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente me encuentro cursando el 7mo ciclo de la carrera.    A lo largo del tiempo que me encuentro en la carrera pude aprender diferentes tecnologías, tanto lenguajes de programación, buenas prácticas de desarrollo, estructuras de datos, finalmente Frameworks como mi Angular en el cual me desempeño en el Frontend. Me considero una persona responsable, listo para trabajar en equipo brindando mi apoyo y con un fuerte compromiso con todos mis deberes.    Mis expectativas para el curso de Aplicaciones Móviles son muy altas, puesto que es un curso en el cual aprenderé diferentes habilidades tanto frontend como backend 📱 |
+| ![Imagen](assets/report/cap-1/img-54345246bd.png) | Jhunior Giussepe Taquiri Calderon | Soy estudiante del séptimo ciclo de Ingeniería de Software en la UPC, con una formación orientada al desarrollo de software y al uso de diversas tecnologías. Tengo experiencia en C++, Python, Java y SQL, además de conocimientos en frameworks frontend como Angular, Vue y React, y tecnologías backend como .NET y Spring Boot. Asimismo, cuento con experiencia en el desarrollo de aplicaciones móviles utilizando Dart, Flutter y Swift, fortaleciendo mis habilidades en diferentes áreas del desarrollo de software.<br>Me considero una persona responsable, organizada y comprometida, con facilidad para trabajar en equipo y con interés en seguir aprendiendo para fortalecer mis conocimientos y perfil profesional.<br>Mis expectativas para el curso de Fundamentos de Arquitectura de Software son comprender cómo se diseñan y estructuran los sistemas de software, conocer los principales estilos y patrones arquitectónicos y aprender a tomar decisiones de diseño considerando atributos de calidad como seguridad, disponibilidad, performance, modificabilidad y usabilidad. Espero que el curso me permita fortalecer mis capacidades para diseñar y desarrollar soluciones de software escalables y de calidad. |
+| ![Imagen](assets/report/cap-1/img-52e2a187c9.png) | Diego<br>Alonzo<br>Mora<br>Blas | Soy estudiante del octavo ciclo de Ingeniería de Software en la UPC. Tengo experiencia trabajando con TypeScript, Express y Prisma en el desarrollo backend, además de conocimientos en bases de datos SQL. También he trabajado con Spring Boot y .NET aplicando patrones de programación orientada a objetos.<br>Me considero una persona responsable y organizada, con facilidad para trabajar en equipo y muchas ganas de seguir aprendiendo.<br>Para el curso de Fundamentos de Arquitectura de Software espero aprender a diseñar y estructurar sistemas de software, conocer los principales estilos y patrones arquitectónicos, y tomar decisiones de diseño considerando atributos de calidad como seguridad, disponibilidad y performance. Espero aplicar estos conocimientos en el proyecto del curso y fortalecer mis capacidades para diseñar soluciones escalables. |
+| ![Imagen](assets/report/cap-1/img-2e572be6fc.jpg) | Dhilsen Armil Mallqui Vilca | Soy estudiante del séptimo ciclo de Ingeniería de Software en la UPC con experiencia como Full Stack Developer. Manejo tecnologías backend (Java, Python, .NET) y frontend (React, Angular, Vue), además de bases de datos.<br>Me considero responsable, organizado y con gran facilidad para trabajar en equipo.<br>Para el curso de Fundamentos de Arquitectura de Software, espero aprender a diseñar sistemas escalables, dominar patrones arquitectónicos y evaluar atributos de calidad como seguridad, disponibilidad y performance. |
 
 ## 1.2. Solution Profile
 
@@ -337,7 +337,7 @@ Creemos que la capacidad de pagar deudas y servicios básicos directamente desde
 
 #### 1.2.3.4. Lean UX Canvas
 
-![Imagen](../../assets/report/cap-1/img-b8365e6af8.png)
+![Imagen](assets/report/cap-1/img-b8365e6af8.png)
 
 ## 1.3. Segmentos objetivo
 
@@ -479,7 +479,7 @@ Entrevistas a estudiantes universitarios
 | Entrevistado 1 | Shary Marquina |
 | Edad | 21 años |
 | Distrito | San Borja |
-| Foto | ![Imagen](../../assets/report/cap-2/img-4b75d563d3.png) |
+| Foto | ![Imagen](assets/report/cap-2/img-4b75d563d3.png) |
 | Timing | [Ver grabación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c576_upc_edu_pe/IQBBMshAfQy1ToIXr51Hw39bASuW-J9wHx6Z_lq4dxclyIs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=areOxR) |
 
 | Campo | Información |
@@ -487,7 +487,7 @@ Entrevistas a estudiantes universitarios
 | Entrevistado 2 | Jhon Anderson Aquino Campos |
 | Edad | 24 |
 | Distrito | Los olivos |
-| Foto | ![Imagen](../../assets/report/cap-2/img-1725b14f8e.png) |
+| Foto | ![Imagen](assets/report/cap-2/img-1725b14f8e.png) |
 | Timing | [Ver grabación](https://youtu.be/gGd9kwKDJM4) |
 
 Entrevistas a padres/madres o tutores
@@ -497,7 +497,7 @@ Entrevistas a padres/madres o tutores
 | Entrevistado 1 | Freddy Jesus Torre Valverde |
 | Edad | 35 |
 | Distrito | Surco |
-| Foto | ![Imagen](../../assets/report/cap-2/img-9afcf4cf01.png) |
+| Foto | ![Imagen](assets/report/cap-2/img-9afcf4cf01.png) |
 | Timing | [Ver grabación](https://www.youtube.com/watch?v=LSnkTj_Xj1Q) |
 
 | Campo | Información |
@@ -505,7 +505,7 @@ Entrevistas a padres/madres o tutores
 | Entrevistado 2 | Enrique Villazon Saravia |
 | Edad | 25 |
 | Distrito | Surco |
-| Foto | ![Imagen](../../assets/report/cap-2/img-8bfbd32a3b.png) |
+| Foto | ![Imagen](assets/report/cap-2/img-8bfbd32a3b.png) |
 | Timing | [Ver grabación](https://youtu.be/je7XNby1e4k?si=vveTRPffyz0od9pX) |
 
 | Campo | Información |
@@ -513,7 +513,7 @@ Entrevistas a padres/madres o tutores
 | Entrevistado 3 | Sergio Caldas García |
 | Edad | 42 |
 | Distrito | San Juan de Lurigancho |
-| Foto | ![Imagen](../../assets/report/cap-2/img-a2e806c4f3.png) |
+| Foto | ![Imagen](assets/report/cap-2/img-a2e806c4f3.png) |
 | Timing | [Ver grabación](https://youtu.be/Dh1ir3HOLUQ) |
 
 ### 2.2.3. Análisis de entrevistas
@@ -691,11 +691,11 @@ Acceso Seguro a Documentos: Incorporar contraseña y autenticación biométrica 
 
 Estudiante universitario
 
-![Imagen](../../assets/report/cap-2/img-51a22af2fc.png)
+![Imagen](assets/report/cap-2/img-51a22af2fc.png)
 
 Padre de familia
 
-![Imagen](../../assets/report/cap-2/img-5910472fad.png)
+![Imagen](assets/report/cap-2/img-5910472fad.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -728,25 +728,25 @@ En conjunto, ambos perfiles valoran la seguridad, la centralización de document
 
 Empathy Map Estudiante Universitario
 
-![Imagen](../../assets/report/cap-2/img-7e7b53802d.png)
+![Imagen](assets/report/cap-2/img-7e7b53802d.png)
 
 Empathy Map Padre de Familia
 
-![Imagen](../../assets/report/cap-2/img-b75af7ae15.png)
+![Imagen](assets/report/cap-2/img-b75af7ae15.png)
 
 ### 2.3.4. As-Is Scenario Mapping
 
 User Journey Mapping Estudiante Universitario
 
-![Imagen](../../assets/report/cap-2/img-e65992dbb6.png)
+![Imagen](assets/report/cap-2/img-e65992dbb6.png)
 
 User Journey Mapping Padre de Familia
 
-![Imagen](../../assets/report/cap-2/img-7acf6ab616.png)
+![Imagen](assets/report/cap-2/img-7acf6ab616.png)
 
 ### 2.3.5. Big Picture EventStorming
 
-![Imagen](../../assets/report/cap-2/img-7317497cf9.png)
+![Imagen](assets/report/cap-2/img-7317497cf9.png)
 
 ### 2.3.6. Ubiquitous Language
 
@@ -875,13 +875,13 @@ En el siguiente apartado se mostrará el Product Backlog generado en Jira, que a
 
 Raul Hiroshi Tasayco Osorio
 
-![Imagen](../../assets/report/cap-3/img-eeac0ab414.png)
+![Imagen](assets/report/cap-3/img-eeac0ab414.png)
 
-![Imagen](../../assets/report/cap-3/img-18a35f461b.png)
+![Imagen](assets/report/cap-3/img-18a35f461b.png)
 
-![Imagen](../../assets/report/cap-3/img-a726f84a9e.png)
+![Imagen](assets/report/cap-3/img-a726f84a9e.png)
 
-![Imagen](../../assets/report/cap-3/img-25f33435db.png)
+![Imagen](assets/report/cap-3/img-25f33435db.png)
 
 ---
 
@@ -1036,9 +1036,9 @@ Diseñaremos PayID para ser desplegado en la nube con contenedores (Docker) y or
 
 Diseñaremos las interfaces REST de cada microservicio antes de implementar la lógica interna, usando OpenAPI Specification (Swagger) para documentar los contratos.
 
-![Imagen](../../assets/report/cap-4/img-60fd39969f.png)
+![Imagen](assets/report/cap-4/img-60fd39969f.png)
 
-![Imagen](../../assets/report/cap-4/img-7eec61a555.png)
+![Imagen](assets/report/cap-4/img-7eec61a555.png)
 
 - Scrum
 - Trabajaremos en Sprints iterativos e incrementales (2 semanas cada uno) con Sprint Backlog, Daily Standups, Sprint Review y Retrospectiva.
@@ -1063,7 +1063,7 @@ Sistemas externos:
 - Pasarela de Pagos: procesamiento de transacciones (Visa, Mastercard, Yape, Plin).
 - Proveedor de Notificaciones: envío de SMS, email y push.
 
-![Imagen](../../assets/report/cap-4/img-9dc0056e32.png)
+![Imagen](assets/report/cap-4/img-9dc0056e32.png)
 
 ### 4.1.4 Approach Driven ViewPoints Diagrams
 
@@ -1071,13 +1071,13 @@ Container diagram:
 
 El diagrama de contenedores de PayID muestra los componentes internos del sistema: las aplicaciones cliente (App Móvil y Portal Web), el API Gateway como punto único de entrada, los BFF (Mobile y Web), los microservicios principales (Identidad, Pagos y Documentos), y la infraestructura de soporte (Kafka, Redis, SQL Server), junto con las integraciones con entidades gubernamentales, pasarelas de pago y servicios externos.
 
-![Imagen](../../assets/report/cap-4/img-eb04e9b7d1.png)
+![Imagen](assets/report/cap-4/img-eb04e9b7d1.png)
 
 Component diagram:
 
 El diagrama de componentes del MS Pagos muestra los 8 componentes internos que procesan transacciones: Controller, Validator, Payment Service, Wallet Service, Repositories, Gateway Adapter y Event Publisher.
 
-![Imagen](../../assets/report/cap-4/img-aaedfe8c4c.png)
+![Imagen](assets/report/cap-4/img-aaedfe8c4c.png)
 
 ### Diagramas UML:
 
@@ -1087,19 +1087,19 @@ Vista lógica:
 
 - El backend se organiza en los módulos Authentication, Documents, Wallet, Payments, Notifications y Support, dentro de una única aplicación ASP.NET Core. Se distinguen las responsabilidades de interfaz REST, aplicación, dominio e infraestructura. Los controladores delegan solicitudes mediante MediatR; los handlers coordinan los casos de uso y utilizan entidades, repositorios o el contexto de persistencia. Documents, Payments, Notifications y Support cuentan con contratos de repositorio e implementaciones basadas en Entity Framework Core. Authentication y Wallet acceden directamente a FinTrackBackDbContext; adicionalmente, la recarga de Wallet utiliza IPaymentRepository. Por ello, la estructura corresponde a un backend modular con separación por capas, aunque el aislamiento de infraestructura no se aplica de forma uniforme a todos los módulos.
 
-![Imagen](../../assets/report/cap-4/img-34e90db14e.png)
+![Imagen](assets/report/cap-4/img-34e90db14e.png)
 
-![Imagen](../../assets/report/cap-4/img-571b2c6702.png)
+![Imagen](assets/report/cap-4/img-571b2c6702.png)
 
 ### Vista de procesos
 
 La vista de procesos utiliza diagramas de secuencia para mostrar el orden de los mensajes durante el inicio de sesión, el registro de documentos y la recarga de una tarjeta de transporte. En la autenticación se consulta al usuario, se valida la contraseña y se genera un JWT. En el registro de documentos se crea la entidad con estado Pending, se persiste mediante DocumentRepository y se devuelve un DocumentDto. En la recarga se valida el monto y la existencia de la tarjeta de transporte; cuando se proporciona PaymentCardId, también se comprueba el saldo de la tarjeta de pago. La operación actualiza saldos y registra movimientos y un pago dentro de una transacción de base de datos, con confirmación o reversión según el resultado.
 
-![Imagen](../../assets/report/cap-4/img-60d2a13f62.png)
+![Imagen](assets/report/cap-4/img-60d2a13f62.png)
 
-![Imagen](../../assets/report/cap-4/img-b7f433b53d.png)
+![Imagen](assets/report/cap-4/img-b7f433b53d.png)
 
-![Imagen](../../assets/report/cap-4/img-f20c9ce30c.png)
+![Imagen](assets/report/cap-4/img-f20c9ce30c.png)
 
 ### 4.1.5 Relational / Non Relational Database Diagram
 
@@ -1107,7 +1107,7 @@ PayID utiliza una base de datos relacional MySQL, configurada mediante el provee
 
 El diagrama conserva los nombres, tipos y nulabilidad definidos en FinTrackBackDbContextModelSnapshot. Las referencias se muestran con líneas punteadas porque el modelo y las migraciones revisadas no declaran restricciones de clave foránea para esos campos. Conceptualmente, un usuario puede tener varios documentos, pagos, notificaciones, tickets y tarjetas; cada tarjeta puede registrar varios movimientos. Implementar las claves foráneas sería una mejora posterior y no se presenta como una característica existente.
 
-![Imagen](../../assets/report/cap-4/img-9f9c4d5c9b.png)
+![Imagen](assets/report/cap-4/img-9f9c4d5c9b.png)
 
 ### 4.1.6 Design Patterns
 
@@ -1122,7 +1122,7 @@ La implementación de PayID combina patrones de diseño y de arquitectura para d
 | DTO | DocumentDto, UserDto, PaymentDto y otros objetos de respuesta. | Define los datos intercambiados en los casos de uso sin entregar directamente la entidad persistida. Por ejemplo, UserDto no incluye PasswordHash. |
 | Unit of Work, proporcionado por EF Core | FinTrackBackDbContext, seguimiento de entidades y SaveChangesAsync. | Coordina la persistencia de cambios. La recarga añade una transacción explícita para agrupar actualizaciones y registros realizados en dos llamadas a SaveChangesAsync. No existe una abstracción IUnitOfWork propia. |
 
-![Imagen](../../assets/report/cap-4/img-ea6e4fc785.png)
+![Imagen](assets/report/cap-4/img-ea6e4fc785.png)
 
 Repository, DTO y Unit of Work pertenecen a patrones de aplicaciones empresariales; CQRS es un patrón arquitectónico e inyección de dependencias es una técnica/patrón de composición. Se distinguen estas categorías para no presentar todos los elementos como patrones GoF. No se atribuyen Factory, Observer o Singleton al código de negocio sin una implementación que los sustente. El registro AddScoped no constituye Singleton.
 
@@ -1242,7 +1242,7 @@ Las preocupaciones arquitectónicas son aspectos que el equipo debe considerar d
 
 En la primera iteración del proyecto se definió el Architectural Design Backlog, compuesto por User Stories (necesidades del usuario), Constraints (restricciones técnicas y legales) y Architectural Concerns (preocupaciones arquitectónicas). Estas tarjetas fueron organizadas en un tablero Trello con las columnas TO-DO, IN-PROGRESS, TO-REVIEW y DONE, y su objetivo es establecer la estructura global del sistema, definiendo los microservicios principales, el API Gateway, los BFF, el bus de eventos (Kafka), las bases de datos y las integraciones externas.
 
-![Imagen](../../assets/report/cap-4/img-d810732ce5.png)
+![Imagen](assets/report/cap-4/img-d810732ce5.png)
 
 <a id="add1-goal"></a>
 #### 4.3.1.2. Establish Iteration Goal by Selecting Drivers
@@ -1570,7 +1570,7 @@ Para documentar el diseño arquitectónico de la Iteration 1, se hace referencia
 
 Diagrama de Contexto:
 
-![Imagen](../../assets/report/cap-4/img-9dc0056e32.png)
+![Imagen](assets/report/cap-4/img-9dc0056e32.png)
 
 | Elemento | Responsabilidad |
 |---|---|
@@ -1591,7 +1591,7 @@ Diagrama de Contexto:
 
 Diagrama de Contenedores:
 
-![Imagen](../../assets/report/cap-4/img-eb04e9b7d1.png)
+![Imagen](assets/report/cap-4/img-eb04e9b7d1.png)
 
 | Elemento | Responsabilidad |
 |---|---|
@@ -1612,7 +1612,7 @@ Diagrama de Contenedores:
 
 Diagrama de Componentes:
 
-![Imagen](../../assets/report/cap-4/img-aaedfe8c4c.png)
+![Imagen](assets/report/cap-4/img-aaedfe8c4c.png)
 
 | Elemento | Responsabilidad |
 |---|---|
@@ -1636,7 +1636,7 @@ Diagrama de Componentes:
 
 Al cierre de la Iteration 1, se analiza el diseño actual del sistema y se revisa el cumplimiento del objetivo planteado. El tablero Kanban refleja el avance del equipo durante la iteración.
 
-![Imagen](../../assets/report/cap-4/img-98417e66db.png)
+![Imagen](assets/report/cap-4/img-98417e66db.png)
 
 Enlace: [Trello -PayID — Iteration 1: Global System Structure](https://trello.com/invite/b/6ac0277440f8dcdc9077645f/ATTI4fab9412ddb8d1dcead000c1a6c340a84F2E45D5/kapakid-iteration-1-global-system-structure)
 
@@ -2285,21 +2285,21 @@ Los microservicios de PayID aplican los patrones definidos en las iteraciones AD
 | Strategy | MS Documentos | Aplicar reglas distintas por tipo de documento. |
 | Circuit Breaker y Retry (Polly) | Adaptadores externos | Tolerar fallas de servicios externos. |
 
-![Imagen](../../assets/report/cap-5/img-c6037026b9.png)
+![Imagen](assets/report/cap-5/img-c6037026b9.png)
 
-![Imagen](../../assets/report/cap-5/img-f2a6d53875.png)
+![Imagen](assets/report/cap-5/img-f2a6d53875.png)
 
-![Imagen](../../assets/report/cap-5/img-00b73b76ec.png)
+![Imagen](assets/report/cap-5/img-00b73b76ec.png)
 
-![Imagen](../../assets/report/cap-5/img-3355e0140c.png)
+![Imagen](assets/report/cap-5/img-3355e0140c.png)
 
-![Imagen](../../assets/report/cap-5/img-bd0300df1d.png)
+![Imagen](assets/report/cap-5/img-bd0300df1d.png)
 
-![Imagen](../../assets/report/cap-5/img-25fb66e8e1.png)
+![Imagen](assets/report/cap-5/img-25fb66e8e1.png)
 
-![Imagen](../../assets/report/cap-5/img-1e50c330c5.png)
+![Imagen](assets/report/cap-5/img-1e50c330c5.png)
 
-![Imagen](../../assets/report/cap-5/img-13c16f4ded.png)
+![Imagen](assets/report/cap-5/img-13c16f4ded.png)
 
 ### 5.1.3. Pattern Based Custom Software Library
 
@@ -2604,7 +2604,7 @@ Sprint Goal: Implementar los microservicios de Pagos y Billetera y de Documentos
 
 Link de Trello: [Spring Backlog 2 - Trello](https://trello.com/invite/b/6ae922c2a7c77496543a9a3f/ATTI46745ab6ebc9f0b817457660056d15ef4015E82C/payid-sprint-2)
 
-![Imagen](../../assets/report/cap-5/img-3596f725b0.png)
+![Imagen](assets/report/cap-5/img-3596f725b0.png)
 
 <a id="sprint2-development"></a>
 #### 5.3.2.2. Development Evidence for Sprint Review
@@ -2635,15 +2635,15 @@ Fuente: historial de Git de los repositorios de la organización (git log --all)
 
 Imagen del Backend PayID – Sprint Backlog 2
 
-![Imagen](../../assets/report/cap-5/img-6e507702e4.png)
+![Imagen](assets/report/cap-5/img-6e507702e4.png)
 
 Imagen de Mobile App PayID – Sprint Backlog 2
 
-![Imagen](../../assets/report/cap-5/img-eb76314237.png)
+![Imagen](assets/report/cap-5/img-eb76314237.png)
 
 Imagen de Web Application PayID – Sprint Backlog 2
 
-![Imagen](../../assets/report/cap-5/img-bfa4a82ad1.png)
+![Imagen](assets/report/cap-5/img-bfa4a82ad1.png)
 
 <a id="sprint2-testing"></a>
 #### 5.3.2.3. Testing Suite Evidence for Sprint Review
@@ -2949,7 +2949,7 @@ Fuente: historial de Git de los repositorios de la organización (git log --all)
 
 Tablero Trello: [PayID — Sprint 3 — Avance 4](https://trello.com/invite/b/6b0457d63e8658629f3e819e/ATTIe461208fa966ff45422c6186fe455b13BF552CCA/payid-sprint-3-avance-4).
 
-![Tablero Kanban del Sprint 3 — Avance 4](../../assets/report/cap-5/sprint-3-backlog.png)
+![Tablero Kanban del Sprint 3 — Avance 4](assets/report/cap-5/sprint-3-backlog.png)
 
 *Figura: tablero compartido por el equipo. La captura muestra 7 tarjetas en To do, 0 en In Progress, 8 en In Review, 0 en Testing y 6 en Done (21 tarjetas en total).*
 
@@ -2985,15 +2985,15 @@ Se verificó el estado accesible de los componentes publicados de PayID el 23/11
 
 **Backend — Swagger UI**
 
-![Captura de Swagger UI del backend PayID desplegado](../../assets/report/cap-5/sprint-4-backend-swagger.jpg)
+![Captura de Swagger UI del backend PayID desplegado](assets/report/cap-5/sprint-4-backend-swagger.jpg)
 
 **Aplicación web — pantalla de inicio de sesión**
 
-![Captura de la pantalla de inicio de sesión web de PayID](../../assets/report/cap-5/sprint-4-web-app.jpg)
+![Captura de la pantalla de inicio de sesión web de PayID](assets/report/cap-5/sprint-4-web-app.jpg)
 
 **Aplicación móvil — release del APK en GitHub**
 
-![Captura de la publicación v1.0.0 de PayID Mobile en GitHub Releases](../../assets/report/cap-5/sprint-4-mobile-release.jpg)
+![Captura de la publicación v1.0.0 de PayID Mobile en GitHub Releases](assets/report/cap-5/sprint-4-mobile-release.jpg)
 
 *Alcance de la evidencia: estado público de los despliegues consultado el 23/11/2026. La ejecución de flujos autenticados y la captura de la app móvil en un dispositivo quedan pendientes. La relación de cambios propios del Sprint 4 se documentará en 5.3.4.2 cuando existan commits del sprint.*
 
@@ -3022,7 +3022,7 @@ Se verificó el estado accesible de los componentes publicados de PayID el 23/11
 
 Tablero Trello: [PayID — Backlog Sprint 4](https://trello.com/invite/b/6b0468fe8eace5074ca7fbf0/ATTIf6a078e05319b42a325609d5983f66c937A6DD46/payid-backlog-sprint-4).
 
-![Tablero Trello del Sprint 4](../../assets/report/cap-5/sprint-4-backlog.png)
+![Tablero Trello del Sprint 4](assets/report/cap-5/sprint-4-backlog.png)
 
 *Figura: captura compartida por el equipo. Se observan 23 tarjetas en In Progress y las listas In Review, Testing y Done vacías.*
 
